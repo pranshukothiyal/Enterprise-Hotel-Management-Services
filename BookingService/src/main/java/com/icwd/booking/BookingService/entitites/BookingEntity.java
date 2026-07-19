@@ -6,21 +6,26 @@ import jakarta.persistence.Table;
 import lombok.*;
 
 @Entity
-@Table(name = "Booking")
+@Table(name = "bookings")
 @Getter
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class BookingEntity
-{
+public class BookingEntity {
+
     @Id
     private String bookingId;
-    private String userId;
-    private String hotelId;
-    private String checkInDate;
-    private String checkOutDate;
-    private Double totalAmount;
-    private String bookingStatus;
 
+    private String userId;
+
+    private String hotelId;
+
+    private String checkInDate;
+
+    private String checkOutDate;
+
+    private Double totalAmount;
+
+    private String bookingStatus;
 }
