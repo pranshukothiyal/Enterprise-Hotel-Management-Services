@@ -225,6 +225,77 @@ public class BookingServiceImpl implements Service {
             );
         }
     }
+    @Override
+    public boolean isRoomAvailable(
+            String roomId,
+            LocalDate checkInDate,
+            LocalDate checkOutDate
+    ) {
 
+        if (roomId == null || roomId.isBlank()) {
+            throw new IllegalArgumentException(
+                    "Room ID is required"
+            );
+        }
+
+        if (checkInDate == null || checkOutDate == null) {
+            throw new IllegalArgumentException(
+                    "Check-in and check-out dates are required"
+            );
+        }
+
+        if (!checkOutDate.isAfter(checkInDate)) {
+            throw new IllegalArgumentException(
+                    "Check-out date must be after check-in date"
+            );
+        }
+
+        List<BookingEntity> bookings =
+                bookingRepository.findByRoomId(roomId);
+
+        for (BookingEntity booking : bookings) {
+
+            if ("CANCELLED".equalsIgnoreCase(
+                    booking.getBookingStatus()
+            )) {
+                continue;
+            }
+
+            LocalDate existingCheckIn =
+                    LocalDate.parse(
+                            booking.getCheckInDate()
+                    );
+
+            LocalDate existingCheckOut =
+                    LocalDate.parse(
+                            booking.getCheckOutDate()
+                    );
+
+            /*
+             * Requested:
+             * checkInDate -------- checkOutDate
+             *
+             * Existing:
+             * existingCheckIn --- existingCheckOut
+             *
+             * They overlap when:
+             *
+             * requestedCheckIn < existingCheckOut
+             * AND
+             * requestedCheckOut > existingCheckIn
+             */
+
+            boolean overlap =
+                    checkInDate.isBefore(existingCheckOut)
+                            &&
+                            checkOutDate.isAfter(existingCheckIn);
+
+            if (overlap) {
+                return false;
+            }
+        }
+
+        return true;
+    }
 
 }

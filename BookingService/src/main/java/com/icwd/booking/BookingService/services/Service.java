@@ -25,4 +25,10 @@ public interface Service {
     BookingPaymentDetails getPaymentDetails(
             String bookingId
     );
+
+    boolean isRoomAvailable(
+            String roomId,
+            LocalDate checkInDate,
+            LocalDate checkOutDate
+    );
 }

@@ -17,4 +17,8 @@ public interface BookingRepository
 
     List<BookingEntity> findByBookingStatus(String bookingStatus);
 
+    List<BookingEntity> findByRoomId(String roomId);
+
+
+
 }

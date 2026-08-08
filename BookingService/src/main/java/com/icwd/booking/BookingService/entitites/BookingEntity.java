@@ -21,6 +21,8 @@ public class BookingEntity {
 
     private String hotelId;
 
+    private String roomId;
+
     private String checkInDate;
 
     private String checkOutDate;
