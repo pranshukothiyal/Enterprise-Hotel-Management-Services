@@ -1,7 +1,9 @@
 package com.icwd.booking.BookingService.services;
 
+import com.icwd.booking.BookingService.dto.BookingPaymentDetails;
 import com.icwd.booking.BookingService.entitites.BookingEntity;
 
+import java.time.LocalDate;
 import java.util.List;
 
 public interface Service {
@@ -19,4 +21,8 @@ public interface Service {
     BookingEntity updateBooking(String bookingId, BookingEntity booking);
 
     void deleteBooking(String bookingId);
+
+    BookingPaymentDetails getPaymentDetails(
+            String bookingId
+    );
 }

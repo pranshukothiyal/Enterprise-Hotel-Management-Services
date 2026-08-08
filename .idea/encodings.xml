@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AIAssistant/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ApiGateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AuthService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BookingService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EmployeeService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HotelService/HotelService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HotelService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/InvoiceService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NotificationService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PaymentService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RatingService/RatingService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RatingService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RoomService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UserService/src/main/java" charset="UTF-8" />
+  </component>
+</project>

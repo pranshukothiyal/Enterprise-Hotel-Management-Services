@@ -1,13 +1,18 @@
 package com.icwd.booking.BookingService.controllers;
 
+import com.icwd.booking.BookingService.dto.BookingPaymentDetails;
 import com.icwd.booking.BookingService.entitites.BookingEntity;
 import com.icwd.booking.BookingService.payload.ApiResponse;
 import com.icwd.booking.BookingService.services.Service;
+import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+import java.time.LocalDate;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 @RestController
 @RequestMapping("/bookings")
@@ -104,5 +109,45 @@ public class BookingController {
                         true
                 )
         );
+    }
+
+    @GetMapping("/{bookingId}/payment-details")
+    public ResponseEntity<BookingPaymentDetails> getPaymentDetails(
+            @PathVariable String bookingId
+    ) {
+        return ResponseEntity.ok(
+                bookingService.getPaymentDetails(
+                        bookingId
+                )
+        );
+    }
+
+    // --- ADDED: Check room availability for AI Assistant & Feign Client ---
+    @GetMapping("/availability")
+    public ResponseEntity<Map<String, Object>> checkAvailability(
+            @RequestParam("roomId") String roomId,
+
+            @RequestParam("checkInDate")
+            @DateTimeFormat(iso = DateTimeFormat.ISO.DATE)
+            LocalDate checkInDate,
+
+            @RequestParam("checkOutDate")
+            @DateTimeFormat(iso = DateTimeFormat.ISO.DATE)
+            LocalDate checkOutDate
+    ) {
+        // If your Service interface has a checkAvailability method:
+        // return ResponseEntity.ok(bookingService.checkAvailability(roomId, checkInDate, checkOutDate));
+
+        // Alternative logic if checking against existing bookings:
+        boolean isAvailable = bookingService.isRoomAvailable(roomId, checkInDate, checkOutDate);
+
+        Map<String, Object> response = new HashMap<>();
+        response.put("roomId", roomId);
+        response.put("checkInDate", checkInDate.toString());
+        response.put("checkOutDate", checkOutDate.toString());
+        response.put("isAvailable", isAvailable);
+        response.put("status", isAvailable ? "AVAILABLE" : "BOOKED");
+
+        return ResponseEntity.ok(response);
     }
 }

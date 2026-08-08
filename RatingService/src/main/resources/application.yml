@@ -1,0 +1,42 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: RATING-SERVICE
+
+  data:
+    mongodb:
+      uri: mongodb+srv://pranshu:pranshu@cluster0.ow5os4w.mongodb.net/ratingmicroservices?retryWrites=true&w=majority&appName=Cluster0
+      database: ratingmicroservices
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+  instance:
+    hostname: localhost
+    prefer-ip-address: true
+    ip-address: 127.0.0.1
+    instance-id: ${spring.application.name}:${server.port}
+    non-secure-port: ${server.port}
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "health,info,mappings"
+
+  endpoint:
+    health:
+      show-details: always
+
+info:
+  app:
+    name: Rating Service
+    description: Manages hotel ratings and reviews
+    version: 1.0.0

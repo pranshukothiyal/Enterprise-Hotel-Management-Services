@@ -1,0 +1,59 @@
+server:
+  port: 8088
+
+spring:
+  application:
+    name: INVOICE-SERVICE
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/hoteldb_invoices?createDatabaseIfNotExist=true&useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+    username: root
+    password: Praaks@02
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    open-in-view: false
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+
+    healthcheck:
+      enabled: true
+
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+  instance:
+    prefer-ip-address: true
+    ip-address: 127.0.0.1
+    status-page-url-path: /actuator/info
+    health-check-url-path: /actuator/health
+
+management:
+  health:
+    mail:
+      enabled: false
+
+  endpoints:
+    web:
+      exposure:
+        include: "health,info"
+
+  endpoint:
+    health:
+      show-details: always
+
+  info:
+    env:
+      enabled: true
+
+info:
+  app:
+    name: Notification Service
+    description: Sends hotel booking and hotel management notifications
+    version: 1.0.0

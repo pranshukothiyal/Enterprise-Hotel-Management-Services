@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EurekaServer" />
+        <module name="AiAssistantService" />
+        <module name="HotelService" />
+        <module name="UserService" />
+        <module name="AuthService" />
+        <module name="InvoiceService" />
+        <module name="NotificationService" />
+        <module name="RoomService" />
+        <module name="RatingService" />
+        <module name="ApiGateway" />
+        <module name="PaymentService" />
+      </profile>
+      <profile name="Annotation profile for EmployeeService" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
+        </processorPath>
+        <module name="EmployeeService" />
+        <module name="BookingService" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AiAssistantService" options="-parameters" />
+      <module name="ApiGateway" options="-parameters" />
+      <module name="AuthService" options="-parameters" />
+      <module name="BookingService" options="-parameters" />
+      <module name="EmployeeService" options="-parameters" />
+      <module name="EurekaServer" options="-parameters" />
+      <module name="HotelService" options="-parameters" />
+      <module name="InvoiceService" options="-parameters" />
+      <module name="NotificationService" options="-parameters" />
+      <module name="PaymentService" options="-parameters" />
+      <module name="RatingService" options="-parameters" />
+      <module name="RoomService" options="-parameters" />
+      <module name="UserService" options="-parameters" />
+    </option>
+  </component>
+</project>

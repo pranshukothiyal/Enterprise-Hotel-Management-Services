@@ -1,0 +1,58 @@
+server:
+  port: 8090
+
+spring:
+  application:
+    name: AI-ASSISTANT-SERVICE
+
+  ai:
+    model:
+      chat: ollama
+      embedding: none
+
+    ollama:
+      base-url: http://localhost:11434
+
+      init:
+        pull-model-strategy: never
+
+      chat:
+        options:
+          model: llama3.2
+          temperature: 0.2
+          num-ctx: 4096
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+  instance:
+    prefer-ip-address: true
+    ip-address: 127.0.0.1
+    instance-id: ${spring.application.name}:${server.port}
+    status-page-url-path: /actuator/info
+    health-check-url-path: /actuator/health
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "health,info,mappings"
+
+  endpoint:
+    health:
+      show-details: always
+
+  info:
+    env:
+      enabled: true
+
+info:
+  app:
+    name: AI Assistant Service
+    description: Local AI concierge using Ollama and Llama
+    version: 1.0.0

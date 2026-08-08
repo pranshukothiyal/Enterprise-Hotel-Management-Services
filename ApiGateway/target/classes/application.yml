@@ -1,0 +1,105 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: API-GATEWAY
+
+  cloud:
+    gateway:
+      routes:
+
+        # AuthService - 8099
+        - id: auth-service
+          uri: lb://AUTH-SERVICE
+          predicates:
+            - Path=/api/v1/auth,/api/v1/auth/**
+
+        # UserService - 8081
+        - id: user-service
+          uri: lb://USER-SERVICE
+          predicates:
+            - Path=/users,/users/**
+              
+              # HotelService - 8082
+        - id: hotel-service
+          uri: lb://HOTEL-SERVICE
+          predicates:
+             - Path=/hotels,/hotels/**,/rooms,/rooms/**
+
+        # RatingService - 8083
+        - id: rating-service
+          uri: lb://RATING-SERVICE
+          predicates:
+            - Path=/ratings,/ratings/**
+
+        # BookingService - 8084
+        - id: booking-service
+          uri: lb://BOOKING-SERVICE
+          predicates:
+            - Path=/bookings,/bookings/**
+
+        # PaymentService - 8085
+        - id: payment-service
+          uri: lb://PAYMENT-SERVICE
+          predicates:
+            - Path=/payments,/payments/**
+
+        # NotificationService - 8086
+        - id: notification-service
+          uri: lb://NOTIFICATION-SERVICE
+          predicates:
+            - Path=/notifications,/notifications/**
+
+        # EmployeeService - 8087
+        - id: employee-service
+          uri: lb://EMPLOYEE-SERVICE
+          predicates:
+            - Path=/employees,/employees/**,/departments,/departments/**
+
+        # InvoiceService - 8088
+        - id: invoice-service
+          uri: lb://INVOICE-SERVICE
+          predicates:
+            - Path=/invoices,/invoices/**
+
+        # RoomService - 8089
+        - id: room-service
+          uri: lb://ROOM-SERVICE
+          predicates:
+            - Path=/roomservicerequests,/roomservicerequests/**,/hotelservices,/hotelservices/**
+
+        # AI Assistant Service - 8090
+        - id: ai-assistant-service
+          uri: lb://AI-ASSISTANT-SERVICE
+          predicates:
+            - Path=/api/ai,/api/ai/**
+
+jwt:
+  secret: ${JWT_SECRET:ThisIsOnlyALocalDevelopmentSecretKeyChangeItBeforeDeployment1234567890}
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+  instance:
+    prefer-ip-address: true
+    ip-address: 127.0.0.1
+    instance-id: ${spring.application.name}:${server.port}
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "health,info,gateway"
+
+  endpoint:
+    health:
+      show-details: always
+
+    gateway:
+      access: read-only
