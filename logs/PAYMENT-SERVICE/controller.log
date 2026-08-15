@@ -1,0 +1,4 @@
+2026-08-11 00:07:51.375 [PAYMENT-SERVICE] [http-nio-8085-exec-4] INFO  [PaymentController.java:128] com.icwd.payment.controller.PaymentController - Received request to fetch all payments
+2026-08-11 00:07:55.341 [PAYMENT-SERVICE] [http-nio-8085-exec-6] INFO  [PaymentController.java:128] com.icwd.payment.controller.PaymentController - Received request to fetch all payments
+2026-08-11 00:08:22.413 [PAYMENT-SERVICE] [http-nio-8085-exec-6] DEBUG [PaymentController.java:136] com.icwd.payment.controller.PaymentController - Fetched all payments successfully. count=8
+2026-08-11 00:08:22.413 [PAYMENT-SERVICE] [http-nio-8085-exec-4] DEBUG [PaymentController.java:136] com.icwd.payment.controller.PaymentController - Fetched all payments successfully. count=8

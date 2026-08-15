@@ -1,0 +1,76 @@
+2026-08-11 00:01:00.919 [HOTEL-SERVICE] [http-nio-8082-exec-4] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 00:01:01.420 [HOTEL-SERVICE] [http-nio-8082-exec-10] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 00:01:01.874 [HOTEL-SERVICE] [http-nio-8082-exec-10] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 00:01:01.809 [HOTEL-SERVICE] [http-nio-8082-exec-4] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 00:01:06.524 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 00:01:06.524 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 00:01:12.504 [HOTEL-SERVICE] [http-nio-8082-exec-7] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 00:01:12.582 [HOTEL-SERVICE] [http-nio-8082-exec-7] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 00:01:27.008 [HOTEL-SERVICE] [http-nio-8082-exec-8] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 00:01:27.011 [HOTEL-SERVICE] [http-nio-8082-exec-8] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 00:01:28.222 [HOTEL-SERVICE] [http-nio-8082-exec-6] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 00:01:28.226 [HOTEL-SERVICE] [http-nio-8082-exec-6] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 00:06:32.903 [HOTEL-SERVICE] [http-nio-8082-exec-3] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 00:06:32.993 [HOTEL-SERVICE] [http-nio-8082-exec-3] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 00:06:33.675 [HOTEL-SERVICE] [http-nio-8082-exec-2] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 00:06:33.757 [HOTEL-SERVICE] [http-nio-8082-exec-2] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:05.858 [HOTEL-SERVICE] [http-nio-8082-exec-1] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:06.835 [HOTEL-SERVICE] [http-nio-8082-exec-1] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:06.952 [HOTEL-SERVICE] [http-nio-8082-exec-2] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:06.952 [HOTEL-SERVICE] [http-nio-8082-exec-2] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:07.638 [HOTEL-SERVICE] [http-nio-8082-exec-3] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:07.649 [HOTEL-SERVICE] [http-nio-8082-exec-3] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:07.681 [HOTEL-SERVICE] [http-nio-8082-exec-4] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:07.681 [HOTEL-SERVICE] [http-nio-8082-exec-4] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:12.745 [HOTEL-SERVICE] [http-nio-8082-exec-5] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:12.745 [HOTEL-SERVICE] [http-nio-8082-exec-5] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:12.788 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:12.793 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:15.828 [HOTEL-SERVICE] [http-nio-8082-exec-7] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:15.844 [HOTEL-SERVICE] [http-nio-8082-exec-7] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:15.882 [HOTEL-SERVICE] [http-nio-8082-exec-8] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:15.887 [HOTEL-SERVICE] [http-nio-8082-exec-8] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:18.495 [HOTEL-SERVICE] [http-nio-8082-exec-6] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:18.495 [HOTEL-SERVICE] [http-nio-8082-exec-6] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:18.541 [HOTEL-SERVICE] [http-nio-8082-exec-10] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:18.546 [HOTEL-SERVICE] [http-nio-8082-exec-10] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:21.814 [HOTEL-SERVICE] [http-nio-8082-exec-1] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:21.814 [HOTEL-SERVICE] [http-nio-8082-exec-1] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:21.866 [HOTEL-SERVICE] [http-nio-8082-exec-2] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:21.882 [HOTEL-SERVICE] [http-nio-8082-exec-2] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:43.008 [HOTEL-SERVICE] [http-nio-8082-exec-3] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:43.024 [HOTEL-SERVICE] [http-nio-8082-exec-3] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:43.057 [HOTEL-SERVICE] [http-nio-8082-exec-4] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:43.061 [HOTEL-SERVICE] [http-nio-8082-exec-4] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:27:13.246 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:27:13.274 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 12:01:27.007 [HOTEL-SERVICE] [http-nio-8082-exec-8] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 12:01:28.215 [HOTEL-SERVICE] [http-nio-8082-exec-6] DEBUG [RoomServiceImpl.java:136] com.icwd.hotel.services.impl.RoomServiceImpl - Fetching all rooms from repository
+2026-08-11 12:01:28.468 [HOTEL-SERVICE] [http-nio-8082-exec-8] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 12:01:29.247 [HOTEL-SERVICE] [http-nio-8082-exec-10] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 12:01:29.385 [HOTEL-SERVICE] [http-nio-8082-exec-10] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 12:01:29.626 [HOTEL-SERVICE] [http-nio-8082-exec-1] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 12:01:29.641 [HOTEL-SERVICE] [http-nio-8082-exec-1] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 12:01:29.731 [HOTEL-SERVICE] [http-nio-8082-exec-2] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 12:01:29.732 [HOTEL-SERVICE] [http-nio-8082-exec-2] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 12:01:36.994 [HOTEL-SERVICE] [http-nio-8082-exec-6] INFO  [RoomServiceImpl.java:143] com.icwd.hotel.services.impl.RoomServiceImpl - Rooms fetched successfully. count=51
+2026-08-11 12:01:38.733 [HOTEL-SERVICE] [http-nio-8082-exec-3] DEBUG [RoomServiceImpl.java:136] com.icwd.hotel.services.impl.RoomServiceImpl - Fetching all rooms from repository
+2026-08-11 12:01:38.812 [HOTEL-SERVICE] [http-nio-8082-exec-3] INFO  [RoomServiceImpl.java:143] com.icwd.hotel.services.impl.RoomServiceImpl - Rooms fetched successfully. count=51
+2026-08-11 12:02:54.657 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 12:02:54.707 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 12:02:54.915 [HOTEL-SERVICE] [http-nio-8082-exec-7] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 12:02:54.929 [HOTEL-SERVICE] [http-nio-8082-exec-7] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 12:05:22.851 [HOTEL-SERVICE] [http-nio-8082-exec-10] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 12:05:22.857 [HOTEL-SERVICE] [http-nio-8082-exec-10] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 12:05:23.184 [HOTEL-SERVICE] [http-nio-8082-exec-1] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 12:05:23.406 [HOTEL-SERVICE] [http-nio-8082-exec-1] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 12:07:56.475 [HOTEL-SERVICE] [http-nio-8082-exec-6] DEBUG [RoomServiceImpl.java:136] com.icwd.hotel.services.impl.RoomServiceImpl - Fetching all rooms from repository
+2026-08-11 12:07:57.717 [HOTEL-SERVICE] [http-nio-8082-exec-6] INFO  [RoomServiceImpl.java:143] com.icwd.hotel.services.impl.RoomServiceImpl - Rooms fetched successfully. count=51
+2026-08-11 12:08:29.699 [HOTEL-SERVICE] [http-nio-8082-exec-3] DEBUG [HotelServiceImpl.java:76] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching hotel by ID. hotelId=search
+2026-08-11 12:08:33.452 [HOTEL-SERVICE] [http-nio-8082-exec-3] WARN  [HotelServiceImpl.java:85] com.icwd.hotel.services.impl.HotelServiceImpl - Hotel not found. hotelId=search
+2026-08-11 12:08:47.638 [HOTEL-SERVICE] [http-nio-8082-exec-5] DEBUG [RoomServiceImpl.java:136] com.icwd.hotel.services.impl.RoomServiceImpl - Fetching all rooms from repository
+2026-08-11 12:08:48.324 [HOTEL-SERVICE] [http-nio-8082-exec-5] INFO  [RoomServiceImpl.java:143] com.icwd.hotel.services.impl.RoomServiceImpl - Rooms fetched successfully. count=51
+2026-08-11 13:34:37.888 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 13:34:38.013 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 13:34:39.235 [HOTEL-SERVICE] [http-nio-8082-exec-7] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 13:34:39.235 [HOTEL-SERVICE] [http-nio-8082-exec-7] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50

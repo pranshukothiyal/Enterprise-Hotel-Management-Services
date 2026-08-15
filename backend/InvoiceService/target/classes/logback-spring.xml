@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+    <!-- Reads spring.application.name from application.yml / application.properties -->
+    <springProperty scope="context"
+                    name="SERVICE_NAME"
+                    source="spring.application.name"
+                    defaultValue="UNKNOWN-SERVICE"/>
+
+    <!--
+      General pattern:
+      timestamp | microservice | thread | level | source-file:line | logger/class | message
+    -->
+    <property name="GENERAL_PATTERN"
+              value="%d{yyyy-MM-dd HH:mm:ss.SSS} [${SERVICE_NAME}] [%thread] %-5level [%file:%line] %logger{60} - %msg%n"/>
+
+    <!-- Error pattern also prints the complete exception stack trace -->
+    <property name="ERROR_PATTERN"
+              value="%d{yyyy-MM-dd HH:mm:ss.SSS} [${SERVICE_NAME}] [%thread] %-5level [%file:%line] %logger{60} - %msg%n%ex{full}"/>
+
+    <!-- ======================== CONSOLE ======================== -->
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>${GENERAL_PATTERN}</pattern>
+        </encoder>
+    </appender>
+
+    <!-- ===================== APPLICATION FILE ================== -->
+    <appender name="APPLICATION_FILE"
+              class="ch.qos.logback.core.rolling.RollingFileAppender">
+
+        <file>logs/${SERVICE_NAME}/application.log</file>
+
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>logs/${SERVICE_NAME}/archive/application-%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>30</maxHistory>
+            <totalSizeCap>2GB</totalSizeCap>
+        </rollingPolicy>
+
+        <encoder>
+            <pattern>${GENERAL_PATTERN}</pattern>
+        </encoder>
+    </appender>
+
+    <!-- ====================== CONTROLLER FILE ================== -->
+    <appender name="CONTROLLER_FILE"
+              class="ch.qos.logback.core.rolling.RollingFileAppender">
+
+        <file>logs/${SERVICE_NAME}/controller.log</file>
+
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>logs/${SERVICE_NAME}/archive/controller-%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>30</maxHistory>
+            <totalSizeCap>2GB</totalSizeCap>
+        </rollingPolicy>
+
+        <encoder>
+            <pattern>${GENERAL_PATTERN}</pattern>
+        </encoder>
+    </appender>
+
+    <!-- ======================== SERVICE FILE =================== -->
+    <appender name="SERVICE_FILE"
+              class="ch.qos.logback.core.rolling.RollingFileAppender">
+
+        <file>logs/${SERVICE_NAME}/service.log</file>
+
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>logs/${SERVICE_NAME}/archive/service-%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>30</maxHistory>
+            <totalSizeCap>2GB</totalSizeCap>
+        </rollingPolicy>
+
+        <encoder>
+            <pattern>${GENERAL_PATTERN}</pattern>
+        </encoder>
+    </appender>
+
+    <!-- ====================== REPOSITORY FILE ================== -->
+    <appender name="REPOSITORY_FILE"
+              class="ch.qos.logback.core.rolling.RollingFileAppender">
+
+        <file>logs/${SERVICE_NAME}/repository.log</file>
+
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>logs/${SERVICE_NAME}/archive/repository-%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>30</maxHistory>
+            <totalSizeCap>2GB</totalSizeCap>
+        </rollingPolicy>
+
+        <encoder>
+            <pattern>${GENERAL_PATTERN}</pattern>
+        </encoder>
+    </appender>
+
+    <!-- ======================== OTHER FILE ===================== -->
+    <!-- DTO/config/client/entity/exception/application classes etc. -->
+    <appender name="OTHER_FILE"
+              class="ch.qos.logback.core.rolling.RollingFileAppender">
+
+        <file>logs/${SERVICE_NAME}/other.log</file>
+
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>logs/${SERVICE_NAME}/archive/other-%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>30</maxHistory>
+            <totalSizeCap>2GB</totalSizeCap>
+        </rollingPolicy>
+
+        <encoder>
+            <pattern>${GENERAL_PATTERN}</pattern>
+        </encoder>
+    </appender>
+
+    <!-- ========================= ERROR FILE ==================== -->
+    <!-- One error file per microservice. Only ERROR events are accepted. -->
+    <appender name="ERROR_FILE"
+              class="ch.qos.logback.core.rolling.RollingFileAppender">
+
+        <file>logs/${SERVICE_NAME}/error.log</file>
+
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>logs/${SERVICE_NAME}/archive/error-%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>3GB</totalSizeCap>
+        </rollingPolicy>
+
+        <filter class="ch.qos.logback.classic.filter.LevelFilter">
+            <level>ERROR</level>
+            <onMatch>ACCEPT</onMatch>
+            <onMismatch>DENY</onMismatch>
+        </filter>
+
+        <encoder>
+            <pattern>${ERROR_PATTERN}</pattern>
+        </encoder>
+    </appender>
+
+    <!-- ==================== APPLICATION PACKAGES =============== -->
+
+    <logger name="com.icwd.invoice" level="INFO" additivity="false">
+        <appender-ref ref="OTHER_FILE"/>
+        <appender-ref ref="APPLICATION_FILE"/>
+        <appender-ref ref="CONSOLE"/>
+        <appender-ref ref="ERROR_FILE"/>
+    </logger>
+
+    <logger name="com.icwd.invoice.controller" level="DEBUG" additivity="false">
+        <appender-ref ref="CONTROLLER_FILE"/>
+        <appender-ref ref="APPLICATION_FILE"/>
+        <appender-ref ref="CONSOLE"/>
+        <appender-ref ref="ERROR_FILE"/>
+    </logger>
+
+    <logger name="com.icwd.invoice.service" level="DEBUG" additivity="false">
+        <appender-ref ref="SERVICE_FILE"/>
+        <appender-ref ref="APPLICATION_FILE"/>
+        <appender-ref ref="CONSOLE"/>
+        <appender-ref ref="ERROR_FILE"/>
+    </logger>
+
+    <logger name="com.icwd.invoice.repository" level="INFO" additivity="false">
+        <appender-ref ref="REPOSITORY_FILE"/>
+        <appender-ref ref="APPLICATION_FILE"/>
+        <appender-ref ref="CONSOLE"/>
+        <appender-ref ref="ERROR_FILE"/>
+    </logger>
+
+
+    <!-- Framework / uncategorized logs -->
+    <root level="INFO">
+        <appender-ref ref="CONSOLE"/>
+        <appender-ref ref="APPLICATION_FILE"/>
+        <appender-ref ref="ERROR_FILE"/>
+    </root>
+
+</configuration>

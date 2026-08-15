@@ -1,0 +1,4 @@
+2026-08-11 12:05:24.885 [EMPLOYEE-SERVICE] [http-nio-8087-exec-1] DEBUG [DepartmentServiceImpl.java:67] com.icwd.EmployeeService.services.DepartmentServiceImpl - Fetching all departments from repository
+2026-08-11 12:05:25.858 [EMPLOYEE-SERVICE] [http-nio-8087-exec-1] INFO  [DepartmentServiceImpl.java:74] com.icwd.EmployeeService.services.DepartmentServiceImpl - Departments fetched successfully. count=50
+2026-08-11 12:05:26.570 [EMPLOYEE-SERVICE] [http-nio-8087-exec-2] DEBUG [DepartmentServiceImpl.java:67] com.icwd.EmployeeService.services.DepartmentServiceImpl - Fetching all departments from repository
+2026-08-11 12:05:26.636 [EMPLOYEE-SERVICE] [http-nio-8087-exec-2] INFO  [DepartmentServiceImpl.java:74] com.icwd.EmployeeService.services.DepartmentServiceImpl - Departments fetched successfully. count=50

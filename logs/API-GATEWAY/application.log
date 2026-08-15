@@ -1,0 +1,239 @@
+2026-08-11 00:03:27.383 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:08:55.953 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:13:56.176 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:18:56.181 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:23:56.200 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:28:56.203 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:33:56.218 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:38:56.224 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:43:56.232 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:48:56.241 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:53:56.252 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:58:56.263 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 01:02:16.366 [API-GATEWAY] [SpringApplicationShutdownHook] INFO  [EurekaServiceRegistry.java:91] o.s.c.netflix.eureka.serviceregistry.EurekaServiceRegistry - Unregistering application API-GATEWAY with eureka with status DOWN
+2026-08-11 01:02:16.557 [API-GATEWAY] [SpringApplicationShutdownHook] INFO  [DiscoveryClient.java:1312] com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1786390336557, current=DOWN, previous=UP]
+2026-08-11 01:02:17.380 [API-GATEWAY] [DiscoveryClient-InstanceInfoReplicator-%d] INFO  [DiscoveryClient.java:840] com.netflix.discovery.DiscoveryClient - DiscoveryClient_API-GATEWAY/API-GATEWAY:8080: registering service...
+2026-08-11 01:02:19.777 [API-GATEWAY] [SpringApplicationShutdownHook] INFO  [GracefulShutdown.java:53] o.springframework.boot.web.embedded.netty.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-08-11 01:02:21.634 [API-GATEWAY] [netty-shutdown] INFO  [GracefulShutdown.java:62] o.springframework.boot.web.embedded.netty.GracefulShutdown - Graceful shutdown complete
+2026-08-11 01:02:29.400 [API-GATEWAY] [SpringApplicationShutdownHook] INFO  [DiscoveryClient.java:902] com.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2026-08-11 01:02:32.419 [API-GATEWAY] [SpringApplicationShutdownHook] INFO  [DiscoveryClient.java:933] com.netflix.discovery.DiscoveryClient - Unregistering ...
+2026-08-11 01:02:32.632 [API-GATEWAY] [DiscoveryClient-%d] WARN  [TimedSupervisorTask.java:87] com.netflix.discovery.TimedSupervisorTask - task supervisor shutting down, can't accept the task
+2026-08-11 01:02:32.735 [API-GATEWAY] [DiscoveryClient-%d] WARN  [TimedSupervisorTask.java:87] com.netflix.discovery.TimedSupervisorTask - task supervisor shutting down, can't accept the task
+2026-08-11 01:02:38.617 [API-GATEWAY] [DiscoveryClient-InstanceInfoReplicator-%d] INFO  [DiscoveryClient.java:849] com.netflix.discovery.DiscoveryClient - DiscoveryClient_API-GATEWAY/API-GATEWAY:8080 - registration status: 204
+2026-08-11 01:02:38.617 [API-GATEWAY] [SpringApplicationShutdownHook] INFO  [DiscoveryClient.java:935] com.netflix.discovery.DiscoveryClient - DiscoveryClient_API-GATEWAY/API-GATEWAY:8080 - deregister  status: 200
+2026-08-11 01:02:38.618 [API-GATEWAY] [SpringApplicationShutdownHook] INFO  [DiscoveryClient.java:922] com.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+2026-08-11 10:16:25.819 [API-GATEWAY] [background-preinit] INFO  [Version.java:21] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-08-11 10:16:25.917 [API-GATEWAY] [main] INFO  [StartupInfoLogger.java:53] com.icwd.gateway.ApiGatewayApplication - Starting ApiGatewayApplication using Java 21.0.11 with PID 33640 (D:\Project Work\ApiGateway\target\classes started by prans in D:\Project Work)
+2026-08-11 10:16:25.928 [API-GATEWAY] [main] INFO  [SpringApplication.java:652] com.icwd.gateway.ApiGatewayApplication - No active profile set, falling back to 1 default profile: "default"
+2026-08-11 10:16:28.148 [API-GATEWAY] [main] INFO  [GenericScope.java:280] org.springframework.cloud.context.scope.GenericScope - BeanFactory id=6826461f-2075-3a43-a313-79ad04b8e64a
+2026-08-11 10:16:29.246 [API-GATEWAY] [main] WARN  [GatewayClassPathWarningAutoConfiguration.java:67] o.s.c.g.config.GatewayClassPathWarningAutoConfiguration - 
+
+**********************************************************
+
+The artifact spring-cloud-gateway-server is deprecated. It will be removed in the next major release. Please add spring-cloud-gateway-server-webflux dependency.
+
+**********************************************************
+
+
+2026-08-11 10:16:30.307 [API-GATEWAY] [main] INFO  [InetUtils.java:170] org.springframework.cloud.commons.util.InetUtils - Cannot determine local hostname
+2026-08-11 10:16:30.802 [API-GATEWAY] [main] INFO  [RouteDefinitionRouteLocator.java:89] o.s.cloud.gateway.route.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [After]
+2026-08-11 10:16:30.803 [API-GATEWAY] [main] INFO  [RouteDefinitionRouteLocator.java:89] o.s.cloud.gateway.route.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Before]
+2026-08-11 10:16:30.803 [API-GATEWAY] [main] INFO  [RouteDefinitionRouteLocator.java:89] o.s.cloud.gateway.route.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Between]
+2026-08-11 10:16:30.804 [API-GATEWAY] [main] INFO  [RouteDefinitionRouteLocator.java:89] o.s.cloud.gateway.route.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Cookie]
+2026-08-11 10:16:30.804 [API-GATEWAY] [main] INFO  [RouteDefinitionRouteLocator.java:89] o.s.cloud.gateway.route.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Header]
+2026-08-11 10:16:30.805 [API-GATEWAY] [main] INFO  [RouteDefinitionRouteLocator.java:89] o.s.cloud.gateway.route.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Host]
+2026-08-11 10:16:30.805 [API-GATEWAY] [main] INFO  [RouteDefinitionRouteLocator.java:89] o.s.cloud.gateway.route.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Method]
+2026-08-11 10:16:30.806 [API-GATEWAY] [main] INFO  [RouteDefinitionRouteLocator.java:89] o.s.cloud.gateway.route.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Path]
+2026-08-11 10:16:30.806 [API-GATEWAY] [main] INFO  [RouteDefinitionRouteLocator.java:89] o.s.cloud.gateway.route.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Query]
+2026-08-11 10:16:30.807 [API-GATEWAY] [main] INFO  [RouteDefinitionRouteLocator.java:89] o.s.cloud.gateway.route.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [ReadBody]
+2026-08-11 10:16:30.807 [API-GATEWAY] [main] INFO  [RouteDefinitionRouteLocator.java:89] o.s.cloud.gateway.route.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [RemoteAddr]
+2026-08-11 10:16:30.807 [API-GATEWAY] [main] INFO  [RouteDefinitionRouteLocator.java:89] o.s.cloud.gateway.route.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [XForwardedRemoteAddr]
+2026-08-11 10:16:30.807 [API-GATEWAY] [main] INFO  [RouteDefinitionRouteLocator.java:89] o.s.cloud.gateway.route.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Weight]
+2026-08-11 10:16:30.808 [API-GATEWAY] [main] INFO  [RouteDefinitionRouteLocator.java:89] o.s.cloud.gateway.route.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [CloudFoundryRouteService]
+2026-08-11 10:16:32.001 [API-GATEWAY] [main] INFO  [InetUtils.java:170] org.springframework.cloud.commons.util.InetUtils - Cannot determine local hostname
+2026-08-11 10:16:33.056 [API-GATEWAY] [main] INFO  [InetUtils.java:170] org.springframework.cloud.commons.util.InetUtils - Cannot determine local hostname
+2026-08-11 10:16:33.106 [API-GATEWAY] [main] INFO  [EndpointLinksResolver.java:60] o.s.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 3 endpoints beneath base path '/actuator'
+2026-08-11 10:16:33.354 [API-GATEWAY] [main] INFO  [DiscoveryClientOptionalArgsConfiguration.java:112] o.s.c.n.e.config.DiscoveryClientOptionalArgsConfiguration - Eureka HTTP Client uses RestTemplate.
+2026-08-11 10:16:33.376 [API-GATEWAY] [main] WARN  [StarterDeprecatedAutoConfiguration.java:35] o.s.c.g.s.webflux.starter.StarterDeprecatedAutoConfiguration - 
+
+**********************************************************
+
+spring-cloud-starter-gateway is deprecated. It will be removed in the next major release. Please use spring-cloud-starter-gateway-server-webflux instead.
+
+**********************************************************
+
+
+2026-08-11 10:16:33.383 [API-GATEWAY] [main] WARN  [LoadBalancerCacheAutoConfiguration.java:94] o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2026-08-11 10:16:33.430 [API-GATEWAY] [main] INFO  [InstanceInfoFactory.java:72] o.springframework.cloud.netflix.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2026-08-11 10:16:33.448 [API-GATEWAY] [main] INFO  [DiscoveryClient.java:338] com.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2026-08-11 10:16:33.452 [API-GATEWAY] [main] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 10:16:33.459 [API-GATEWAY] [main] INFO  [DiscoveryClient.java:969] com.netflix.discovery.DiscoveryClient - Disable delta property : false
+2026-08-11 10:16:33.459 [API-GATEWAY] [main] INFO  [DiscoveryClient.java:970] com.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2026-08-11 10:16:33.460 [API-GATEWAY] [main] INFO  [DiscoveryClient.java:971] com.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2026-08-11 10:16:33.460 [API-GATEWAY] [main] INFO  [DiscoveryClient.java:972] com.netflix.discovery.DiscoveryClient - Application is null : false
+2026-08-11 10:16:33.460 [API-GATEWAY] [main] INFO  [DiscoveryClient.java:973] com.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2026-08-11 10:16:33.460 [API-GATEWAY] [main] INFO  [DiscoveryClient.java:975] com.netflix.discovery.DiscoveryClient - Application version is -1: true
+2026-08-11 10:16:33.460 [API-GATEWAY] [main] INFO  [DiscoveryClient.java:1057] com.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2026-08-11 10:16:33.863 [API-GATEWAY] [main] INFO  [DiscoveryClient.java:1066] com.netflix.discovery.DiscoveryClient - The response status is 200
+2026-08-11 10:16:33.873 [API-GATEWAY] [main] INFO  [DiscoveryClient.java:1281] com.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2026-08-11 10:16:33.873 [API-GATEWAY] [main] INFO  [InstanceInfoReplicator.java:64] com.netflix.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2026-08-11 10:16:33.873 [API-GATEWAY] [main] INFO  [DiscoveryClient.java:464] com.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1786423593873 with initial instances count: 11
+2026-08-11 10:16:33.873 [API-GATEWAY] [main] INFO  [EurekaServiceRegistry.java:70] o.s.c.netflix.eureka.serviceregistry.EurekaServiceRegistry - Registering application API-GATEWAY with eureka with status UP
+2026-08-11 10:16:33.873 [API-GATEWAY] [main] INFO  [DiscoveryClient.java:1312] com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1786423593873, current=UP, previous=STARTING]
+2026-08-11 10:16:33.873 [API-GATEWAY] [DiscoveryClient-InstanceInfoReplicator-%d] INFO  [DiscoveryClient.java:840] com.netflix.discovery.DiscoveryClient - DiscoveryClient_API-GATEWAY/API-GATEWAY:8080: registering service...
+2026-08-11 10:16:33.938 [API-GATEWAY] [DiscoveryClient-InstanceInfoReplicator-%d] INFO  [DiscoveryClient.java:849] com.netflix.discovery.DiscoveryClient - DiscoveryClient_API-GATEWAY/API-GATEWAY:8080 - registration status: 204
+2026-08-11 10:16:34.269 [API-GATEWAY] [main] INFO  [NettyWebServer.java:139] org.springframework.boot.web.embedded.netty.NettyWebServer - Netty started on port 8080 (http)
+2026-08-11 10:16:34.271 [API-GATEWAY] [main] INFO  [EurekaAutoServiceRegistration.java:150] o.s.c.n.eureka.serviceregistry.EurekaAutoServiceRegistration - Updating port to 8080
+2026-08-11 10:16:35.290 [API-GATEWAY] [main] INFO  [InetUtils.java:170] org.springframework.cloud.commons.util.InetUtils - Cannot determine local hostname
+2026-08-11 10:16:36.314 [API-GATEWAY] [main] INFO  [InetUtils.java:170] org.springframework.cloud.commons.util.InetUtils - Cannot determine local hostname
+2026-08-11 10:16:36.329 [API-GATEWAY] [main] INFO  [StartupInfoLogger.java:59] com.icwd.gateway.ApiGatewayApplication - Started ApiGatewayApplication in 12.794 seconds (process running for 14.085)
+2026-08-11 10:16:36.351 [API-GATEWAY] [main] WARN  [GatewayServerWebfluxPropertiesMigrationListener.java:168] o.s.c.g.c.GatewayServerWebfluxPropertiesMigrationListener - 
+The use of configuration keys that have been renamed was found in the environment:
+
+Property source 'Config resource 'class path resource [application.yml]' via location 'optional:classpath:/'':
+	Key: spring.cloud.gateway.routes[0].id
+		Line: 13
+		Replacement: spring.cloud.gateway.server.webflux.routes[0].id
+	Key: spring.cloud.gateway.routes[0].uri
+		Line: 14
+		Replacement: spring.cloud.gateway.server.webflux.routes[0].uri
+	Key: spring.cloud.gateway.routes[0].predicates[0]
+		Line: 16
+		Replacement: spring.cloud.gateway.server.webflux.routes[0].predicates[0]
+	Key: spring.cloud.gateway.routes[1].id
+		Line: 19
+		Replacement: spring.cloud.gateway.server.webflux.routes[1].id
+	Key: spring.cloud.gateway.routes[1].uri
+		Line: 20
+		Replacement: spring.cloud.gateway.server.webflux.routes[1].uri
+	Key: spring.cloud.gateway.routes[1].predicates[0]
+		Line: 22
+		Replacement: spring.cloud.gateway.server.webflux.routes[1].predicates[0]
+	Key: spring.cloud.gateway.routes[2].id
+		Line: 25
+		Replacement: spring.cloud.gateway.server.webflux.routes[2].id
+	Key: spring.cloud.gateway.routes[2].uri
+		Line: 26
+		Replacement: spring.cloud.gateway.server.webflux.routes[2].uri
+	Key: spring.cloud.gateway.routes[2].predicates[0]
+		Line: 28
+		Replacement: spring.cloud.gateway.server.webflux.routes[2].predicates[0]
+	Key: spring.cloud.gateway.routes[3].id
+		Line: 31
+		Replacement: spring.cloud.gateway.server.webflux.routes[3].id
+	Key: spring.cloud.gateway.routes[3].uri
+		Line: 32
+		Replacement: spring.cloud.gateway.server.webflux.routes[3].uri
+	Key: spring.cloud.gateway.routes[3].predicates[0]
+		Line: 34
+		Replacement: spring.cloud.gateway.server.webflux.routes[3].predicates[0]
+	Key: spring.cloud.gateway.routes[4].id
+		Line: 37
+		Replacement: spring.cloud.gateway.server.webflux.routes[4].id
+	Key: spring.cloud.gateway.routes[4].uri
+		Line: 38
+		Replacement: spring.cloud.gateway.server.webflux.routes[4].uri
+	Key: spring.cloud.gateway.routes[4].predicates[0]
+		Line: 40
+		Replacement: spring.cloud.gateway.server.webflux.routes[4].predicates[0]
+	Key: spring.cloud.gateway.routes[5].id
+		Line: 43
+		Replacement: spring.cloud.gateway.server.webflux.routes[5].id
+	Key: spring.cloud.gateway.routes[5].uri
+		Line: 44
+		Replacement: spring.cloud.gateway.server.webflux.routes[5].uri
+	Key: spring.cloud.gateway.routes[5].predicates[0]
+		Line: 46
+		Replacement: spring.cloud.gateway.server.webflux.routes[5].predicates[0]
+	Key: spring.cloud.gateway.routes[6].id
+		Line: 49
+		Replacement: spring.cloud.gateway.server.webflux.routes[6].id
+	Key: spring.cloud.gateway.routes[6].uri
+		Line: 50
+		Replacement: spring.cloud.gateway.server.webflux.routes[6].uri
+	Key: spring.cloud.gateway.routes[6].predicates[0]
+		Line: 52
+		Replacement: spring.cloud.gateway.server.webflux.routes[6].predicates[0]
+	Key: spring.cloud.gateway.routes[7].id
+		Line: 55
+		Replacement: spring.cloud.gateway.server.webflux.routes[7].id
+	Key: spring.cloud.gateway.routes[7].uri
+		Line: 56
+		Replacement: spring.cloud.gateway.server.webflux.routes[7].uri
+	Key: spring.cloud.gateway.routes[7].predicates[0]
+		Line: 58
+		Replacement: spring.cloud.gateway.server.webflux.routes[7].predicates[0]
+	Key: spring.cloud.gateway.routes[8].id
+		Line: 61
+		Replacement: spring.cloud.gateway.server.webflux.routes[8].id
+	Key: spring.cloud.gateway.routes[8].uri
+		Line: 62
+		Replacement: spring.cloud.gateway.server.webflux.routes[8].uri
+	Key: spring.cloud.gateway.routes[8].predicates[0]
+		Line: 64
+		Replacement: spring.cloud.gateway.server.webflux.routes[8].predicates[0]
+	Key: spring.cloud.gateway.routes[9].id
+		Line: 67
+		Replacement: spring.cloud.gateway.server.webflux.routes[9].id
+	Key: spring.cloud.gateway.routes[9].uri
+		Line: 68
+		Replacement: spring.cloud.gateway.server.webflux.routes[9].uri
+	Key: spring.cloud.gateway.routes[9].predicates[0]
+		Line: 70
+		Replacement: spring.cloud.gateway.server.webflux.routes[9].predicates[0]
+	Key: spring.cloud.gateway.routes[10].id
+		Line: 73
+		Replacement: spring.cloud.gateway.server.webflux.routes[10].id
+	Key: spring.cloud.gateway.routes[10].uri
+		Line: 74
+		Replacement: spring.cloud.gateway.server.webflux.routes[10].uri
+	Key: spring.cloud.gateway.routes[10].predicates[0]
+		Line: 76
+		Replacement: spring.cloud.gateway.server.webflux.routes[10].predicates[0]
+
+
+Each configuration key has been temporarily mapped to its replacement for your convenience. To silence this warning, please update your configuration to use the new keys.
+
+2026-08-11 10:21:33.464 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 10:26:33.491 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 10:31:33.494 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 10:36:33.503 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 10:41:33.509 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 10:46:33.521 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 10:51:33.532 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 10:56:33.542 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:01:33.556 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:06:33.560 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:11:33.562 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:16:33.575 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:21:33.577 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:26:33.602 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:31:33.606 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:36:33.622 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:41:33.626 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:46:33.640 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:51:33.651 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:56:33.662 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:01:33.667 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:06:33.670 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:11:33.683 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:16:33.686 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:21:33.688 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:26:33.692 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:31:33.701 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:36:33.717 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:41:33.730 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:46:33.747 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:51:33.755 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:56:33.766 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:01:33.779 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:06:33.787 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:11:33.796 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:16:33.811 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:21:33.815 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:26:33.823 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:31:33.838 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:36:33.844 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:41:35.832 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:46:35.846 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:52:59.564 [API-GATEWAY] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration

@@ -1,0 +1,4 @@
+2026-08-11 12:03:43.875 [RATING-SERVICE] [http-nio-8083-exec-2] DEBUG [RatingServiceImpl.java:43] c.icwd.rating.RatingService.services.impl.RatingServiceImpl - Fetching all ratings from repository
+2026-08-11 12:03:49.227 [RATING-SERVICE] [http-nio-8083-exec-2] INFO  [RatingServiceImpl.java:50] c.icwd.rating.RatingService.services.impl.RatingServiceImpl - Ratings fetched successfully. count=50
+2026-08-11 12:03:49.743 [RATING-SERVICE] [http-nio-8083-exec-1] DEBUG [RatingServiceImpl.java:43] c.icwd.rating.RatingService.services.impl.RatingServiceImpl - Fetching all ratings from repository
+2026-08-11 12:03:50.519 [RATING-SERVICE] [http-nio-8083-exec-1] INFO  [RatingServiceImpl.java:50] c.icwd.rating.RatingService.services.impl.RatingServiceImpl - Ratings fetched successfully. count=50

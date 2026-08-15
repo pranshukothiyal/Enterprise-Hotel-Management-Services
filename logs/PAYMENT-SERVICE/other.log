@@ -1,0 +1,5 @@
+2026-08-11 10:13:14.544 [PAYMENT-SERVICE] [main] INFO  [StartupInfoLogger.java:50] com.icwd.payment.PaymentServiceApplication - Starting PaymentServiceApplication using Java 21.0.11 with PID 15320 (D:\Project Work\PaymentService\target\classes started by prans in D:\Project Work)
+2026-08-11 10:13:14.556 [PAYMENT-SERVICE] [main] INFO  [SpringApplication.java:654] com.icwd.payment.PaymentServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-08-11 10:13:18.848 [PAYMENT-SERVICE] [main] INFO  [RazorpayConfig.java:23] com.icwd.payment.config.RazorpayConfig - Initializing Razorpay client
+2026-08-11 10:13:19.038 [PAYMENT-SERVICE] [main] INFO  [RazorpayConfig.java:33] com.icwd.payment.config.RazorpayConfig - Razorpay client initialized successfully
+2026-08-11 10:13:20.280 [PAYMENT-SERVICE] [main] INFO  [StartupInfoLogger.java:56] com.icwd.payment.PaymentServiceApplication - Started PaymentServiceApplication in 6.531 seconds (process running for 7.124)

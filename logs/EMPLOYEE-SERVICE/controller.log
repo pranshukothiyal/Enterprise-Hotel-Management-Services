@@ -1,0 +1,4 @@
+2026-08-11 12:05:24.437 [EMPLOYEE-SERVICE] [http-nio-8087-exec-1] INFO  [DepartmentController.java:52] com.icwd.EmployeeService.contollers.DepartmentController - Received request to fetch all departments
+2026-08-11 12:05:25.906 [EMPLOYEE-SERVICE] [http-nio-8087-exec-1] DEBUG [DepartmentController.java:59] com.icwd.EmployeeService.contollers.DepartmentController - Fetched all departments successfully. count=50
+2026-08-11 12:05:26.567 [EMPLOYEE-SERVICE] [http-nio-8087-exec-2] INFO  [DepartmentController.java:52] com.icwd.EmployeeService.contollers.DepartmentController - Received request to fetch all departments
+2026-08-11 12:05:26.643 [EMPLOYEE-SERVICE] [http-nio-8087-exec-2] DEBUG [DepartmentController.java:59] com.icwd.EmployeeService.contollers.DepartmentController - Fetched all departments successfully. count=50

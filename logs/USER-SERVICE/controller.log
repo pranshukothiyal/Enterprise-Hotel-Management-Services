@@ -1,0 +1,4 @@
+2026-08-11 12:04:19.955 [USER-SERVICE] [http-nio-8081-exec-1] INFO  [UserController.java:129] com.icwd.user.service.UserService.controller.UserController - Received request to fetch all users
+2026-08-11 12:04:23.074 [USER-SERVICE] [http-nio-8081-exec-1] INFO  [UserController.java:138] com.icwd.user.service.UserService.controller.UserController - Fetched users successfully. count=53
+2026-08-11 12:04:23.365 [USER-SERVICE] [http-nio-8081-exec-2] INFO  [UserController.java:129] com.icwd.user.service.UserService.controller.UserController - Received request to fetch all users
+2026-08-11 12:04:23.388 [USER-SERVICE] [http-nio-8081-exec-2] INFO  [UserController.java:138] com.icwd.user.service.UserService.controller.UserController - Fetched users successfully. count=53

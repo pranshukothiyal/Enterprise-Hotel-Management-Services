@@ -1,0 +1,682 @@
+2026-08-11 00:00:48.283 [HOTEL-SERVICE] [http-nio-8082-exec-10] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 00:00:26.869 [HOTEL-SERVICE] [http-nio-8082-exec-4] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 00:01:00.919 [HOTEL-SERVICE] [http-nio-8082-exec-4] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 00:01:01.420 [HOTEL-SERVICE] [http-nio-8082-exec-10] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 00:01:01.874 [HOTEL-SERVICE] [http-nio-8082-exec-10] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 00:01:01.874 [HOTEL-SERVICE] [http-nio-8082-exec-10] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 00:01:01.809 [HOTEL-SERVICE] [http-nio-8082-exec-4] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 00:01:01.962 [HOTEL-SERVICE] [http-nio-8082-exec-4] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 00:01:06.524 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 00:01:06.524 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 00:01:06.524 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 00:01:06.524 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 00:01:11.959 [HOTEL-SERVICE] [http-nio-8082-exec-7] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 00:01:12.504 [HOTEL-SERVICE] [http-nio-8082-exec-7] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 00:01:12.582 [HOTEL-SERVICE] [http-nio-8082-exec-7] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 00:01:12.582 [HOTEL-SERVICE] [http-nio-8082-exec-7] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 00:01:27.003 [HOTEL-SERVICE] [http-nio-8082-exec-8] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 00:01:27.008 [HOTEL-SERVICE] [http-nio-8082-exec-8] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 00:01:27.011 [HOTEL-SERVICE] [http-nio-8082-exec-8] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 00:01:27.012 [HOTEL-SERVICE] [http-nio-8082-exec-8] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 00:01:28.219 [HOTEL-SERVICE] [http-nio-8082-exec-6] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 00:01:28.222 [HOTEL-SERVICE] [http-nio-8082-exec-6] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 00:01:28.226 [HOTEL-SERVICE] [http-nio-8082-exec-6] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 00:01:28.228 [HOTEL-SERVICE] [http-nio-8082-exec-6] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 00:02:12.912 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:06:32.903 [HOTEL-SERVICE] [http-nio-8082-exec-3] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 00:06:32.903 [HOTEL-SERVICE] [http-nio-8082-exec-3] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 00:06:32.993 [HOTEL-SERVICE] [http-nio-8082-exec-3] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 00:06:33.000 [HOTEL-SERVICE] [http-nio-8082-exec-3] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 00:06:33.584 [HOTEL-SERVICE] [http-nio-8082-exec-2] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 00:06:33.675 [HOTEL-SERVICE] [http-nio-8082-exec-2] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 00:06:33.757 [HOTEL-SERVICE] [http-nio-8082-exec-2] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 00:06:33.757 [HOTEL-SERVICE] [http-nio-8082-exec-2] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 00:07:21.354 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:12:21.356 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:17:21.369 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:22:21.375 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:27:21.387 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:32:21.399 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:37:21.402 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:42:21.403 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:47:21.416 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:52:21.419 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 00:57:21.428 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 01:02:21.483 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 01:02:52.250 [HOTEL-SERVICE] [SpringApplicationShutdownHook] INFO  [EurekaServiceRegistry.java:91] o.s.c.netflix.eureka.serviceregistry.EurekaServiceRegistry - Unregistering application HOTEL-SERVICE with eureka with status DOWN
+2026-08-11 01:02:52.728 [HOTEL-SERVICE] [SpringApplicationShutdownHook] INFO  [DiscoveryClient.java:1312] com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1786390372728, current=DOWN, previous=UP]
+2026-08-11 01:02:53.994 [HOTEL-SERVICE] [DiscoveryClient-InstanceInfoReplicator-%d] INFO  [DiscoveryClient.java:840] com.netflix.discovery.DiscoveryClient - DiscoveryClient_HOTEL-SERVICE/localhost:HOTEL-SERVICE:8082: registering service...
+2026-08-11 01:03:04.275 [HOTEL-SERVICE] [DiscoveryClient-InstanceInfoReplicator-%d] INFO  [DiscoveryClient.java:849] com.netflix.discovery.DiscoveryClient - DiscoveryClient_HOTEL-SERVICE/localhost:HOTEL-SERVICE:8082 - registration status: 204
+2026-08-11 01:03:09.229 [HOTEL-SERVICE] [SpringApplicationShutdownHook] INFO  [GracefulShutdown.java:54] o.springframework.boot.web.embedded.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-08-11 01:03:15.710 [HOTEL-SERVICE] [tomcat-shutdown] INFO  [GracefulShutdown.java:76] o.springframework.boot.web.embedded.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-08-11 01:03:20.282 [HOTEL-SERVICE] [DiscoveryClient-HeartbeatExecutor-%d] INFO  [HttpRequestRetryExec.java:155] o.apache.hc.client5.http.impl.classic.HttpRequestRetryExec - ex-0000001686 recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when sending request to http://localhost:8761;request will be automatically re-executed in 0 MILLISECONDS (exec count 2)
+2026-08-11 01:03:24.623 [HOTEL-SERVICE] [SpringApplicationShutdownHook] INFO  [AbstractEntityManagerFactoryBean.java:660] o.s.orm.jpa.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-08-11 01:03:31.987 [HOTEL-SERVICE] [DiscoveryClient-CacheRefreshExecutor-%d] INFO  [HttpRequestRetryExec.java:155] o.apache.hc.client5.http.impl.classic.HttpRequestRetryExec - ex-0000001687 recoverable I/O exception (java.net.SocketException) caught when sending request to http://localhost:8761;request will be automatically re-executed in 0 MILLISECONDS (exec count 2)
+2026-08-11 01:03:33.047 [HOTEL-SERVICE] [DiscoveryClient-HeartbeatExecutor-%d] INFO  [RedirectingEurekaHttpClient.java:92] c.n.d.shared.transport.decorator.RedirectingEurekaHttpClient - Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/} exception=I/O error on PUT request for "http://localhost:8761/eureka/apps/HOTEL-SERVICE/localhost:HOTEL-SERVICE:8082": Connection reset
+org.springframework.web.client.ResourceAccessException: I/O error on PUT request for "http://localhost:8761/eureka/apps/HOTEL-SERVICE/localhost:HOTEL-SERVICE:8082": Connection reset
+	at org.springframework.web.client.RestTemplate.createResourceAccessException(RestTemplate.java:926)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:906)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:841)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:702)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.sendHeartBeat(RestTemplateEurekaHttpClient.java:119)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:90)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:860)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1418)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:318)
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:346)
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:796)
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:1099)
+	at org.apache.hc.core5.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:149)
+	at org.apache.hc.core5.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.hc.core5.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:250)
+	at org.apache.hc.core5.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:56)
+	at org.apache.hc.core5.http.impl.io.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:331)
+	at org.apache.hc.core5.http.impl.io.HttpRequestExecutor.execute(HttpRequestExecutor.java:196)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.lambda$execute$0(InternalExecRuntime.java:236)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager$InternalConnectionEndpoint.execute(PoolingHttpClientConnectionManager.java:798)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.execute(InternalExecRuntime.java:233)
+	at org.apache.hc.client5.http.impl.classic.MainClientExec.execute(MainClientExec.java:120)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:200)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:168)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:112)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:99)
+	at org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:88)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:81)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:117)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateTransportClientFactory.lambda$restTemplate$2(RestTemplateTransportClientFactory.java:145)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:88)
+	at org.springframework.http.client.InterceptingClientHttpRequest.executeInternal(InterceptingClientHttpRequest.java:72)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:81)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:900)
+	... 19 common frames omitted
+2026-08-11 01:03:33.544 [HOTEL-SERVICE] [DiscoveryClient-HeartbeatExecutor-%d] WARN  [RetryableEurekaHttpClient.java:130] c.n.d.shared.transport.decorator.RetryableEurekaHttpClient - Request execution failed with message: I/O error on PUT request for "http://localhost:8761/eureka/apps/HOTEL-SERVICE/localhost:HOTEL-SERVICE:8082": Connection reset
+2026-08-11 01:03:35.287 [HOTEL-SERVICE] [DiscoveryClient-HeartbeatExecutor-%d] INFO  [RedirectingEurekaHttpClient.java:83] c.n.d.shared.transport.decorator.RedirectingEurekaHttpClient - Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/}, exception=I/O error on PUT request for "http://localhost:8761/eureka/apps/HOTEL-SERVICE/localhost:HOTEL-SERVICE:8082": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+org.springframework.web.client.ResourceAccessException: I/O error on PUT request for "http://localhost:8761/eureka/apps/HOTEL-SERVICE/localhost:HOTEL-SERVICE:8082": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+	at org.springframework.web.client.RestTemplate.createResourceAccessException(RestTemplate.java:926)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:906)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:841)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:702)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.sendHeartBeat(RestTemplateEurekaHttpClient.java:119)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:79)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:860)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1418)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:8761 failed: Connection refused: getsockopt
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:690)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:592)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:751)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:226)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:497)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:164)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:174)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:144)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:168)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:112)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:99)
+	at org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:88)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:81)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:117)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateTransportClientFactory.lambda$restTemplate$2(RestTemplateTransportClientFactory.java:145)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:88)
+	at org.springframework.http.client.InterceptingClientHttpRequest.executeInternal(InterceptingClientHttpRequest.java:72)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:81)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:900)
+	... 20 common frames omitted
+2026-08-11 01:03:35.287 [HOTEL-SERVICE] [DiscoveryClient-CacheRefreshExecutor-%d] INFO  [RedirectingEurekaHttpClient.java:92] c.n.d.shared.transport.decorator.RedirectingEurekaHttpClient - Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/} exception=I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+org.springframework.web.client.ResourceAccessException: I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+	at org.springframework.web.client.RestTemplate.createResourceAccessException(RestTemplate.java:926)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:906)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:841)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:702)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.getApplicationsInternal(RestTemplateEurekaHttpClient.java:174)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.getDelta(RestTemplateEurekaHttpClient.java:186)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:90)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.DiscoveryClient.getAndUpdateDelta(DiscoveryClient.java:1095)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:978)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1489)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1457)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:8761 failed: Connection refused: getsockopt
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:690)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:592)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:751)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:226)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:497)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:164)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:174)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:144)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:168)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:112)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:99)
+	at org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:88)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:81)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:117)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateTransportClientFactory.lambda$restTemplate$2(RestTemplateTransportClientFactory.java:145)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:88)
+	at org.springframework.http.client.InterceptingClientHttpRequest.executeInternal(InterceptingClientHttpRequest.java:72)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:81)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:900)
+	... 22 common frames omitted
+2026-08-11 01:03:35.409 [HOTEL-SERVICE] [DiscoveryClient-CacheRefreshExecutor-%d] WARN  [RetryableEurekaHttpClient.java:130] c.n.d.shared.transport.decorator.RetryableEurekaHttpClient - Request execution failed with message: I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+2026-08-11 01:03:35.409 [HOTEL-SERVICE] [DiscoveryClient-HeartbeatExecutor-%d] WARN  [RetryableEurekaHttpClient.java:130] c.n.d.shared.transport.decorator.RetryableEurekaHttpClient - Request execution failed with message: I/O error on PUT request for "http://localhost:8761/eureka/apps/HOTEL-SERVICE/localhost:HOTEL-SERVICE:8082": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+2026-08-11 01:03:35.410 [HOTEL-SERVICE] [DiscoveryClient-HeartbeatExecutor-%d] ERROR [DiscoveryClient.java:874] com.netflix.discovery.DiscoveryClient - DiscoveryClient_HOTEL-SERVICE/localhost:HOTEL-SERVICE:8082 - was unable to send heartbeat!
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:860)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1418)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-08-11 01:03:36.778 [HOTEL-SERVICE] [DiscoveryClient-CacheRefreshExecutor-%d] INFO  [RedirectingEurekaHttpClient.java:83] c.n.d.shared.transport.decorator.RedirectingEurekaHttpClient - Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/}, exception=I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+org.springframework.web.client.ResourceAccessException: I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+	at org.springframework.web.client.RestTemplate.createResourceAccessException(RestTemplate.java:926)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:906)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:841)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:702)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.getApplicationsInternal(RestTemplateEurekaHttpClient.java:174)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.getDelta(RestTemplateEurekaHttpClient.java:186)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:79)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.DiscoveryClient.getAndUpdateDelta(DiscoveryClient.java:1095)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:978)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1489)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1457)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:8761 failed: Connection refused: getsockopt
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:690)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:592)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:751)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:226)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:497)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:164)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:174)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:144)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:168)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:112)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:99)
+	at org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:88)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:81)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:117)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateTransportClientFactory.lambda$restTemplate$2(RestTemplateTransportClientFactory.java:145)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:88)
+	at org.springframework.http.client.InterceptingClientHttpRequest.executeInternal(InterceptingClientHttpRequest.java:72)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:81)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:900)
+	... 23 common frames omitted
+2026-08-11 01:03:36.779 [HOTEL-SERVICE] [DiscoveryClient-CacheRefreshExecutor-%d] WARN  [RetryableEurekaHttpClient.java:130] c.n.d.shared.transport.decorator.RetryableEurekaHttpClient - Request execution failed with message: I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+2026-08-11 01:03:36.779 [HOTEL-SERVICE] [DiscoveryClient-CacheRefreshExecutor-%d] INFO  [DiscoveryClient.java:983] com.netflix.discovery.DiscoveryClient - DiscoveryClient_HOTEL-SERVICE/localhost:HOTEL-SERVICE:8082 - was unable to refresh its cache! This periodic background refresh will be retried in 30 seconds. status = Cannot execute request on any known server
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.DiscoveryClient.getAndUpdateDelta(DiscoveryClient.java:1095)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:978)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1489)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1457)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-08-11 01:03:37.026 [HOTEL-SERVICE] [SpringApplicationShutdownHook] INFO  [HikariDataSource.java:349] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-08-11 01:03:38.628 [HOTEL-SERVICE] [SpringApplicationShutdownHook] INFO  [HikariDataSource.java:351] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-08-11 01:03:38.729 [HOTEL-SERVICE] [SpringApplicationShutdownHook] INFO  [DiscoveryClient.java:902] com.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2026-08-11 01:03:41.829 [HOTEL-SERVICE] [SpringApplicationShutdownHook] INFO  [DiscoveryClient.java:933] com.netflix.discovery.DiscoveryClient - Unregistering ...
+2026-08-11 01:03:42.684 [HOTEL-SERVICE] [SpringApplicationShutdownHook] INFO  [RedirectingEurekaHttpClient.java:83] c.n.d.shared.transport.decorator.RedirectingEurekaHttpClient - Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/}, exception=I/O error on DELETE request for "http://localhost:8761/eureka/apps/HOTEL-SERVICE/localhost:HOTEL-SERVICE:8082": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+org.springframework.web.client.ResourceAccessException: I/O error on DELETE request for "http://localhost:8761/eureka/apps/HOTEL-SERVICE/localhost:HOTEL-SERVICE:8082": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+	at org.springframework.web.client.RestTemplate.createResourceAccessException(RestTemplate.java:926)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:906)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:841)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:702)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.cancel(RestTemplateEurekaHttpClient.java:100)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:79)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:934)
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:915)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMethod.invoke(InitDestroyAnnotationBeanPostProcessor.java:457)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeDestroyMethods(InitDestroyAnnotationBeanPostProcessor.java:415)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeDestruction(InitDestroyAnnotationBeanPostProcessor.java:239)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:203)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.run(DisposableBeanAdapter.java:196)
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.destroy(GenericScope.java:387)
+	at org.springframework.cloud.context.scope.GenericScope.destroy(GenericScope.java:134)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:212)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:798)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:748)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1506)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:707)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1499)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1243)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1204)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:179)
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1150)
+	at org.springframework.boot.SpringApplicationShutdownHook.closeAndWait(SpringApplicationShutdownHook.java:147)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.SpringApplicationShutdownHook.run(SpringApplicationShutdownHook.java:116)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:8761 failed: Connection refused: getsockopt
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:690)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:592)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:751)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:226)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:497)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:164)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:174)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:144)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:168)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:112)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:99)
+	at org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:88)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:81)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:117)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateTransportClientFactory.lambda$restTemplate$2(RestTemplateTransportClientFactory.java:145)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:88)
+	at org.springframework.http.client.InterceptingClientHttpRequest.executeInternal(InterceptingClientHttpRequest.java:72)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:81)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:900)
+	... 38 common frames omitted
+2026-08-11 01:03:42.685 [HOTEL-SERVICE] [SpringApplicationShutdownHook] WARN  [RetryableEurekaHttpClient.java:130] c.n.d.shared.transport.decorator.RetryableEurekaHttpClient - Request execution failed with message: I/O error on DELETE request for "http://localhost:8761/eureka/apps/HOTEL-SERVICE/localhost:HOTEL-SERVICE:8082": Connect to http://localhost:8761 failed: Connection refused: getsockopt
+2026-08-11 01:03:42.685 [HOTEL-SERVICE] [SpringApplicationShutdownHook] ERROR [DiscoveryClient.java:937] com.netflix.discovery.DiscoveryClient - DiscoveryClient_HOTEL-SERVICE/localhost:HOTEL-SERVICE:8082 - de-registration failedCannot execute request on any known server
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:934)
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:915)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMethod.invoke(InitDestroyAnnotationBeanPostProcessor.java:457)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeDestroyMethods(InitDestroyAnnotationBeanPostProcessor.java:415)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeDestruction(InitDestroyAnnotationBeanPostProcessor.java:239)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:203)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.run(DisposableBeanAdapter.java:196)
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.destroy(GenericScope.java:387)
+	at org.springframework.cloud.context.scope.GenericScope.destroy(GenericScope.java:134)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:212)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:798)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:748)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1506)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:707)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1499)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1243)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1204)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:179)
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1150)
+	at org.springframework.boot.SpringApplicationShutdownHook.closeAndWait(SpringApplicationShutdownHook.java:147)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.SpringApplicationShutdownHook.run(SpringApplicationShutdownHook.java:116)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-08-11 01:03:43.088 [HOTEL-SERVICE] [SpringApplicationShutdownHook] INFO  [DiscoveryClient.java:922] com.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+2026-08-11 10:12:35.167 [HOTEL-SERVICE] [background-preinit] INFO  [Version.java:21] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-08-11 10:12:35.223 [HOTEL-SERVICE] [main] INFO  [StartupInfoLogger.java:53] com.icwd.hotel.HotelServiceApplication - Starting HotelServiceApplication using Java 21.0.11 with PID 31088 (D:\Project Work\HotelService\target\classes started by prans in D:\Project Work)
+2026-08-11 10:12:35.228 [HOTEL-SERVICE] [main] INFO  [SpringApplication.java:652] com.icwd.hotel.HotelServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2026-08-11 10:12:36.814 [HOTEL-SERVICE] [main] INFO  [RepositoryConfigurationDelegate.java:145] o.s.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-08-11 10:12:36.987 [HOTEL-SERVICE] [main] INFO  [RepositoryConfigurationDelegate.java:213] o.s.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 162 ms. Found 2 JPA repository interfaces.
+2026-08-11 10:12:37.192 [HOTEL-SERVICE] [main] INFO  [GenericScope.java:280] org.springframework.cloud.context.scope.GenericScope - BeanFactory id=83b4f83b-cf6a-30fd-bf97-2c26101f6e40
+2026-08-11 10:12:37.582 [HOTEL-SERVICE] [main] INFO  [TomcatWebServer.java:111] o.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8082 (http)
+2026-08-11 10:12:37.598 [HOTEL-SERVICE] [main] INFO  [DirectJDKLog.java:168] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2026-08-11 10:12:37.600 [HOTEL-SERVICE] [main] INFO  [DirectJDKLog.java:168] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-08-11 10:12:37.600 [HOTEL-SERVICE] [main] INFO  [DirectJDKLog.java:168] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.55]
+2026-08-11 10:12:37.666 [HOTEL-SERVICE] [main] INFO  [DirectJDKLog.java:168] o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-08-11 10:12:37.667 [HOTEL-SERVICE] [main] INFO  [ServletWebServerApplicationContext.java:301] o.s.b.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2390 ms
+2026-08-11 10:12:38.087 [HOTEL-SERVICE] [main] INFO  [LogHelper.java:31] org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-08-11 10:12:38.151 [HOTEL-SERVICE] [main] INFO  [Version.java:44] org.hibernate.Version - HHH000412: Hibernate ORM core version 6.6.53.Final
+2026-08-11 10:12:38.197 [HOTEL-SERVICE] [main] INFO  [RegionFactoryInitiator.java:50] org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2026-08-11 10:12:38.498 [HOTEL-SERVICE] [main] INFO  [SpringPersistenceUnitInfo.java:87] o.s.orm.jpa.persistenceunit.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-08-11 10:12:38.528 [HOTEL-SERVICE] [main] INFO  [HikariDataSource.java:109] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-08-11 10:12:38.853 [HOTEL-SERVICE] [main] INFO  [HikariPool.java:580] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@31c56721
+2026-08-11 10:12:38.855 [HOTEL-SERVICE] [main] INFO  [HikariDataSource.java:122] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-08-11 10:12:38.954 [HOTEL-SERVICE] [main] INFO  [JdbcEnvironmentInitiator.java:163] org.hibernate.orm.connections.pooling - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 18.4
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2026-08-11 10:12:39.934 [HOTEL-SERVICE] [main] INFO  [JtaPlatformInitiator.java:59] o.h.e.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-08-11 10:12:40.207 [HOTEL-SERVICE] [main] INFO  [AbstractEntityManagerFactoryBean.java:447] o.s.orm.jpa.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-08-11 10:12:41.268 [HOTEL-SERVICE] [main] INFO  [DiscoveryClientOptionalArgsConfiguration.java:112] o.s.c.n.e.config.DiscoveryClientOptionalArgsConfiguration - Eureka HTTP Client uses RestTemplate.
+2026-08-11 10:12:41.309 [HOTEL-SERVICE] [main] WARN  [LoadBalancerCacheAutoConfiguration.java:94] o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2026-08-11 10:12:41.317 [HOTEL-SERVICE] [main] INFO  [EndpointLinksResolver.java:60] o.s.boot.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoints beneath base path '/actuator'
+2026-08-11 10:12:41.398 [HOTEL-SERVICE] [main] INFO  [InstanceInfoFactory.java:72] o.springframework.cloud.netflix.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2026-08-11 10:12:41.422 [HOTEL-SERVICE] [main] INFO  [DiscoveryClient.java:338] com.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2026-08-11 10:12:41.428 [HOTEL-SERVICE] [main] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 10:12:41.437 [HOTEL-SERVICE] [main] INFO  [DiscoveryClient.java:969] com.netflix.discovery.DiscoveryClient - Disable delta property : false
+2026-08-11 10:12:41.438 [HOTEL-SERVICE] [main] INFO  [DiscoveryClient.java:970] com.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2026-08-11 10:12:41.438 [HOTEL-SERVICE] [main] INFO  [DiscoveryClient.java:971] com.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2026-08-11 10:12:41.438 [HOTEL-SERVICE] [main] INFO  [DiscoveryClient.java:972] com.netflix.discovery.DiscoveryClient - Application is null : false
+2026-08-11 10:12:41.438 [HOTEL-SERVICE] [main] INFO  [DiscoveryClient.java:973] com.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2026-08-11 10:12:41.438 [HOTEL-SERVICE] [main] INFO  [DiscoveryClient.java:975] com.netflix.discovery.DiscoveryClient - Application version is -1: true
+2026-08-11 10:12:41.438 [HOTEL-SERVICE] [main] INFO  [DiscoveryClient.java:1057] com.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2026-08-11 10:12:42.038 [HOTEL-SERVICE] [main] INFO  [DiscoveryClient.java:1066] com.netflix.discovery.DiscoveryClient - The response status is 200
+2026-08-11 10:12:42.041 [HOTEL-SERVICE] [main] INFO  [DiscoveryClient.java:1281] com.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2026-08-11 10:12:42.046 [HOTEL-SERVICE] [main] INFO  [InstanceInfoReplicator.java:64] com.netflix.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2026-08-11 10:12:42.049 [HOTEL-SERVICE] [main] INFO  [DiscoveryClient.java:464] com.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1786423362048 with initial instances count: 0
+2026-08-11 10:12:42.054 [HOTEL-SERVICE] [main] INFO  [EurekaServiceRegistry.java:70] o.s.c.netflix.eureka.serviceregistry.EurekaServiceRegistry - Registering application HOTEL-SERVICE with eureka with status UP
+2026-08-11 10:12:42.055 [HOTEL-SERVICE] [main] INFO  [DiscoveryClient.java:1312] com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1786423362055, current=UP, previous=STARTING]
+2026-08-11 10:12:42.057 [HOTEL-SERVICE] [DiscoveryClient-InstanceInfoReplicator-%d] INFO  [DiscoveryClient.java:840] com.netflix.discovery.DiscoveryClient - DiscoveryClient_HOTEL-SERVICE/Pranshu:HOTEL-SERVICE:8082: registering service...
+2026-08-11 10:12:42.058 [HOTEL-SERVICE] [main] INFO  [DirectJDKLog.java:168] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2026-08-11 10:12:42.085 [HOTEL-SERVICE] [main] INFO  [TomcatWebServer.java:243] o.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8082 (http) with context path '/'
+2026-08-11 10:12:42.086 [HOTEL-SERVICE] [main] INFO  [EurekaAutoServiceRegistration.java:150] o.s.c.n.eureka.serviceregistry.EurekaAutoServiceRegistration - Updating port to 8082
+2026-08-11 10:12:42.116 [HOTEL-SERVICE] [main] INFO  [StartupInfoLogger.java:59] com.icwd.hotel.HotelServiceApplication - Started HotelServiceApplication in 7.877 seconds (process running for 8.685)
+2026-08-11 10:12:42.230 [HOTEL-SERVICE] [DiscoveryClient-InstanceInfoReplicator-%d] INFO  [DiscoveryClient.java:849] com.netflix.discovery.DiscoveryClient - DiscoveryClient_HOTEL-SERVICE/Pranshu:HOTEL-SERVICE:8082 - registration status: 204
+2026-08-11 10:13:12.052 [HOTEL-SERVICE] [DiscoveryClient-CacheRefreshExecutor-%d] INFO  [DiscoveryClient.java:969] com.netflix.discovery.DiscoveryClient - Disable delta property : false
+2026-08-11 10:13:12.053 [HOTEL-SERVICE] [DiscoveryClient-CacheRefreshExecutor-%d] INFO  [DiscoveryClient.java:970] com.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2026-08-11 10:13:12.053 [HOTEL-SERVICE] [DiscoveryClient-CacheRefreshExecutor-%d] INFO  [DiscoveryClient.java:971] com.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2026-08-11 10:13:12.053 [HOTEL-SERVICE] [DiscoveryClient-CacheRefreshExecutor-%d] INFO  [DiscoveryClient.java:972] com.netflix.discovery.DiscoveryClient - Application is null : false
+2026-08-11 10:13:12.053 [HOTEL-SERVICE] [DiscoveryClient-CacheRefreshExecutor-%d] INFO  [DiscoveryClient.java:973] com.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2026-08-11 10:13:12.053 [HOTEL-SERVICE] [DiscoveryClient-CacheRefreshExecutor-%d] INFO  [DiscoveryClient.java:975] com.netflix.discovery.DiscoveryClient - Application version is -1: false
+2026-08-11 10:13:12.053 [HOTEL-SERVICE] [DiscoveryClient-CacheRefreshExecutor-%d] INFO  [DiscoveryClient.java:1057] com.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2026-08-11 10:13:12.089 [HOTEL-SERVICE] [DiscoveryClient-CacheRefreshExecutor-%d] INFO  [DiscoveryClient.java:1066] com.netflix.discovery.DiscoveryClient - The response status is 200
+2026-08-11 10:17:45.015 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 10:18:03.059 [HOTEL-SERVICE] [http-nio-8082-exec-1] INFO  [DirectJDKLog.java:168] o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-08-11 10:18:03.106 [HOTEL-SERVICE] [http-nio-8082-exec-1] INFO  [FrameworkServlet.java:532] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-08-11 10:18:03.557 [HOTEL-SERVICE] [http-nio-8082-exec-1] INFO  [FrameworkServlet.java:554] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 449 ms
+2026-08-11 10:18:04.883 [HOTEL-SERVICE] [http-nio-8082-exec-1] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:05.858 [HOTEL-SERVICE] [http-nio-8082-exec-1] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:06.835 [HOTEL-SERVICE] [http-nio-8082-exec-1] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:06.857 [HOTEL-SERVICE] [http-nio-8082-exec-1] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:06.952 [HOTEL-SERVICE] [http-nio-8082-exec-2] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:06.952 [HOTEL-SERVICE] [http-nio-8082-exec-2] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:06.952 [HOTEL-SERVICE] [http-nio-8082-exec-2] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:06.952 [HOTEL-SERVICE] [http-nio-8082-exec-2] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:07.638 [HOTEL-SERVICE] [http-nio-8082-exec-3] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:07.638 [HOTEL-SERVICE] [http-nio-8082-exec-3] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:07.649 [HOTEL-SERVICE] [http-nio-8082-exec-3] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:07.649 [HOTEL-SERVICE] [http-nio-8082-exec-3] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:07.681 [HOTEL-SERVICE] [http-nio-8082-exec-4] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:07.681 [HOTEL-SERVICE] [http-nio-8082-exec-4] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:07.681 [HOTEL-SERVICE] [http-nio-8082-exec-4] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:07.681 [HOTEL-SERVICE] [http-nio-8082-exec-4] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:12.745 [HOTEL-SERVICE] [http-nio-8082-exec-5] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:12.745 [HOTEL-SERVICE] [http-nio-8082-exec-5] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:12.745 [HOTEL-SERVICE] [http-nio-8082-exec-5] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:12.745 [HOTEL-SERVICE] [http-nio-8082-exec-5] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:12.784 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:12.788 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:12.793 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:12.795 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:15.828 [HOTEL-SERVICE] [http-nio-8082-exec-7] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:15.828 [HOTEL-SERVICE] [http-nio-8082-exec-7] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:15.844 [HOTEL-SERVICE] [http-nio-8082-exec-7] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:15.846 [HOTEL-SERVICE] [http-nio-8082-exec-7] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:15.880 [HOTEL-SERVICE] [http-nio-8082-exec-8] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:15.882 [HOTEL-SERVICE] [http-nio-8082-exec-8] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:15.887 [HOTEL-SERVICE] [http-nio-8082-exec-8] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:16.221 [HOTEL-SERVICE] [http-nio-8082-exec-8] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:18.495 [HOTEL-SERVICE] [http-nio-8082-exec-6] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:18.495 [HOTEL-SERVICE] [http-nio-8082-exec-6] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:18.495 [HOTEL-SERVICE] [http-nio-8082-exec-6] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:18.495 [HOTEL-SERVICE] [http-nio-8082-exec-6] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:18.540 [HOTEL-SERVICE] [http-nio-8082-exec-10] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:18.541 [HOTEL-SERVICE] [http-nio-8082-exec-10] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:18.546 [HOTEL-SERVICE] [http-nio-8082-exec-10] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:18.546 [HOTEL-SERVICE] [http-nio-8082-exec-10] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:21.814 [HOTEL-SERVICE] [http-nio-8082-exec-1] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:21.814 [HOTEL-SERVICE] [http-nio-8082-exec-1] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:21.814 [HOTEL-SERVICE] [http-nio-8082-exec-1] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:21.814 [HOTEL-SERVICE] [http-nio-8082-exec-1] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:21.864 [HOTEL-SERVICE] [http-nio-8082-exec-2] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:21.866 [HOTEL-SERVICE] [http-nio-8082-exec-2] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:21.882 [HOTEL-SERVICE] [http-nio-8082-exec-2] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:21.883 [HOTEL-SERVICE] [http-nio-8082-exec-2] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:43.008 [HOTEL-SERVICE] [http-nio-8082-exec-3] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:43.008 [HOTEL-SERVICE] [http-nio-8082-exec-3] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:43.024 [HOTEL-SERVICE] [http-nio-8082-exec-3] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:43.024 [HOTEL-SERVICE] [http-nio-8082-exec-3] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:43.055 [HOTEL-SERVICE] [http-nio-8082-exec-4] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:43.057 [HOTEL-SERVICE] [http-nio-8082-exec-4] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:18:43.061 [HOTEL-SERVICE] [http-nio-8082-exec-4] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:18:43.061 [HOTEL-SERVICE] [http-nio-8082-exec-4] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:22:45.289 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 10:27:13.216 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:27:13.246 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 10:27:13.274 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 10:27:13.281 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:27:45.329 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 10:32:45.333 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 10:37:45.337 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 10:42:45.349 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 10:47:45.354 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 10:52:45.358 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 10:57:45.374 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:02:45.388 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:07:45.398 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:12:45.406 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:17:45.413 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:22:45.419 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:27:45.422 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:32:45.431 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:37:45.437 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:42:45.440 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:47:45.452 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:52:45.455 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 11:57:45.469 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:01:25.675 [HOTEL-SERVICE] [http-nio-8082-exec-8] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 12:01:27.007 [HOTEL-SERVICE] [http-nio-8082-exec-8] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 12:01:27.785 [HOTEL-SERVICE] [http-nio-8082-exec-6] INFO  [RoomController.java:58] com.icwd.hotel.controllers.RoomController - Received request to fetch all rooms
+2026-08-11 12:01:28.215 [HOTEL-SERVICE] [http-nio-8082-exec-6] DEBUG [RoomServiceImpl.java:136] com.icwd.hotel.services.impl.RoomServiceImpl - Fetching all rooms from repository
+2026-08-11 12:01:28.468 [HOTEL-SERVICE] [http-nio-8082-exec-8] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 12:01:28.470 [HOTEL-SERVICE] [http-nio-8082-exec-8] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 12:01:29.234 [HOTEL-SERVICE] [http-nio-8082-exec-10] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 12:01:29.247 [HOTEL-SERVICE] [http-nio-8082-exec-10] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 12:01:29.385 [HOTEL-SERVICE] [http-nio-8082-exec-10] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 12:01:29.440 [HOTEL-SERVICE] [http-nio-8082-exec-10] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 12:01:29.626 [HOTEL-SERVICE] [http-nio-8082-exec-1] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 12:01:29.626 [HOTEL-SERVICE] [http-nio-8082-exec-1] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 12:01:29.641 [HOTEL-SERVICE] [http-nio-8082-exec-1] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 12:01:29.641 [HOTEL-SERVICE] [http-nio-8082-exec-1] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 12:01:29.730 [HOTEL-SERVICE] [http-nio-8082-exec-2] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 12:01:29.731 [HOTEL-SERVICE] [http-nio-8082-exec-2] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 12:01:29.732 [HOTEL-SERVICE] [http-nio-8082-exec-2] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 12:01:29.735 [HOTEL-SERVICE] [http-nio-8082-exec-2] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 12:01:36.994 [HOTEL-SERVICE] [http-nio-8082-exec-6] INFO  [RoomServiceImpl.java:143] com.icwd.hotel.services.impl.RoomServiceImpl - Rooms fetched successfully. count=51
+2026-08-11 12:01:37.096 [HOTEL-SERVICE] [http-nio-8082-exec-6] DEBUG [RoomController.java:65] com.icwd.hotel.controllers.RoomController - Fetched all rooms successfully. count=51
+2026-08-11 12:01:38.732 [HOTEL-SERVICE] [http-nio-8082-exec-3] INFO  [RoomController.java:58] com.icwd.hotel.controllers.RoomController - Received request to fetch all rooms
+2026-08-11 12:01:38.733 [HOTEL-SERVICE] [http-nio-8082-exec-3] DEBUG [RoomServiceImpl.java:136] com.icwd.hotel.services.impl.RoomServiceImpl - Fetching all rooms from repository
+2026-08-11 12:01:38.812 [HOTEL-SERVICE] [http-nio-8082-exec-3] INFO  [RoomServiceImpl.java:143] com.icwd.hotel.services.impl.RoomServiceImpl - Rooms fetched successfully. count=51
+2026-08-11 12:01:38.813 [HOTEL-SERVICE] [http-nio-8082-exec-3] DEBUG [RoomController.java:65] com.icwd.hotel.controllers.RoomController - Fetched all rooms successfully. count=51
+2026-08-11 12:02:45.477 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:02:54.657 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 12:02:54.657 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 12:02:54.707 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 12:02:54.707 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 12:02:54.915 [HOTEL-SERVICE] [http-nio-8082-exec-7] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 12:02:54.915 [HOTEL-SERVICE] [http-nio-8082-exec-7] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 12:02:54.929 [HOTEL-SERVICE] [http-nio-8082-exec-7] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 12:02:54.931 [HOTEL-SERVICE] [http-nio-8082-exec-7] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 12:05:22.851 [HOTEL-SERVICE] [http-nio-8082-exec-10] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 12:05:22.851 [HOTEL-SERVICE] [http-nio-8082-exec-10] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 12:05:22.857 [HOTEL-SERVICE] [http-nio-8082-exec-10] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 12:05:22.858 [HOTEL-SERVICE] [http-nio-8082-exec-10] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 12:05:23.177 [HOTEL-SERVICE] [http-nio-8082-exec-1] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 12:05:23.184 [HOTEL-SERVICE] [http-nio-8082-exec-1] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 12:05:23.406 [HOTEL-SERVICE] [http-nio-8082-exec-1] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 12:05:23.406 [HOTEL-SERVICE] [http-nio-8082-exec-1] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 12:07:45.491 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:07:56.475 [HOTEL-SERVICE] [http-nio-8082-exec-6] INFO  [RoomController.java:58] com.icwd.hotel.controllers.RoomController - Received request to fetch all rooms
+2026-08-11 12:07:56.475 [HOTEL-SERVICE] [http-nio-8082-exec-6] DEBUG [RoomServiceImpl.java:136] com.icwd.hotel.services.impl.RoomServiceImpl - Fetching all rooms from repository
+2026-08-11 12:07:57.717 [HOTEL-SERVICE] [http-nio-8082-exec-6] INFO  [RoomServiceImpl.java:143] com.icwd.hotel.services.impl.RoomServiceImpl - Rooms fetched successfully. count=51
+2026-08-11 12:07:57.717 [HOTEL-SERVICE] [http-nio-8082-exec-6] DEBUG [RoomController.java:65] com.icwd.hotel.controllers.RoomController - Fetched all rooms successfully. count=51
+2026-08-11 12:08:29.667 [HOTEL-SERVICE] [http-nio-8082-exec-3] INFO  [HotelController.java:48] com.icwd.hotel.controllers.HotelController - Received request to fetch hotel. hotelId=search
+2026-08-11 12:08:29.699 [HOTEL-SERVICE] [http-nio-8082-exec-3] DEBUG [HotelServiceImpl.java:76] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching hotel by ID. hotelId=search
+2026-08-11 12:08:33.452 [HOTEL-SERVICE] [http-nio-8082-exec-3] WARN  [HotelServiceImpl.java:85] com.icwd.hotel.services.impl.HotelServiceImpl - Hotel not found. hotelId=search
+2026-08-11 12:08:33.624 [HOTEL-SERVICE] [http-nio-8082-exec-3] WARN  [GlobalExceptionalHandler.java:19] com.icwd.hotel.exception.GlobalExceptionalHandler - Requested hotel resource was not found. message=Hotel with given id not found!!!
+2026-08-11 12:08:47.637 [HOTEL-SERVICE] [http-nio-8082-exec-5] INFO  [RoomController.java:58] com.icwd.hotel.controllers.RoomController - Received request to fetch all rooms
+2026-08-11 12:08:47.638 [HOTEL-SERVICE] [http-nio-8082-exec-5] DEBUG [RoomServiceImpl.java:136] com.icwd.hotel.services.impl.RoomServiceImpl - Fetching all rooms from repository
+2026-08-11 12:08:48.324 [HOTEL-SERVICE] [http-nio-8082-exec-5] INFO  [RoomServiceImpl.java:143] com.icwd.hotel.services.impl.RoomServiceImpl - Rooms fetched successfully. count=51
+2026-08-11 12:08:48.324 [HOTEL-SERVICE] [http-nio-8082-exec-5] DEBUG [RoomController.java:65] com.icwd.hotel.controllers.RoomController - Fetched all rooms successfully. count=51
+2026-08-11 12:12:45.493 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:17:45.526 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:22:45.542 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:27:45.554 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:32:45.556 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:37:45.569 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:42:45.579 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:47:45.585 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:52:45.615 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 12:57:45.631 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:02:45.641 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:07:45.665 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:12:45.678 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:17:45.680 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:22:45.697 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:27:45.716 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:32:45.722 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:34:37.714 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 13:34:37.888 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 13:34:38.013 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 13:34:38.017 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 13:34:39.235 [HOTEL-SERVICE] [http-nio-8082-exec-7] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 13:34:39.235 [HOTEL-SERVICE] [http-nio-8082-exec-7] DEBUG [HotelServiceImpl.java:58] com.icwd.hotel.services.impl.HotelServiceImpl - Fetching all hotels from repository
+2026-08-11 13:34:39.235 [HOTEL-SERVICE] [http-nio-8082-exec-7] INFO  [HotelServiceImpl.java:65] com.icwd.hotel.services.impl.HotelServiceImpl - Hotels fetched successfully. count=50
+2026-08-11 13:34:39.235 [HOTEL-SERVICE] [http-nio-8082-exec-7] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 13:37:45.740 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:42:45.752 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:47:45.759 [HOTEL-SERVICE] [AsyncResolver-bootstrap-executor-%d] INFO  [ConfigClusterResolver.java:43] c.n.discovery.shared.resolver.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2026-08-11 13:52:50.609 [HOTEL-SERVICE] [HikariPool-1:housekeeper] WARN  [HikariPool.java:825] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m57s385ms625µs200ns).

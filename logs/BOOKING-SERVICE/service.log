@@ -1,0 +1,8 @@
+2026-08-11 00:06:38.384 [BOOKING-SERVICE] [http-nio-8084-exec-9] DEBUG [BookingServiceImpl.java:91] c.i.booking.BookingService.services.impl.BookingServiceImpl - Fetching all bookings from database
+2026-08-11 00:06:47.064 [BOOKING-SERVICE] [http-nio-8084-exec-9] INFO  [BookingServiceImpl.java:96] c.i.booking.BookingService.services.impl.BookingServiceImpl - Fetched all bookings successfully. count=49
+2026-08-11 00:06:51.049 [BOOKING-SERVICE] [http-nio-8084-exec-3] DEBUG [BookingServiceImpl.java:91] c.i.booking.BookingService.services.impl.BookingServiceImpl - Fetching all bookings from database
+2026-08-11 00:06:51.609 [BOOKING-SERVICE] [http-nio-8084-exec-3] INFO  [BookingServiceImpl.java:96] c.i.booking.BookingService.services.impl.BookingServiceImpl - Fetched all bookings successfully. count=49
+2026-08-11 12:02:59.846 [BOOKING-SERVICE] [http-nio-8084-exec-1] DEBUG [BookingServiceImpl.java:91] c.i.booking.BookingService.services.impl.BookingServiceImpl - Fetching all bookings from database
+2026-08-11 12:03:01.825 [BOOKING-SERVICE] [http-nio-8084-exec-1] INFO  [BookingServiceImpl.java:96] c.i.booking.BookingService.services.impl.BookingServiceImpl - Fetched all bookings successfully. count=49
+2026-08-11 12:03:02.321 [BOOKING-SERVICE] [http-nio-8084-exec-2] DEBUG [BookingServiceImpl.java:91] c.i.booking.BookingService.services.impl.BookingServiceImpl - Fetching all bookings from database
+2026-08-11 12:03:02.351 [BOOKING-SERVICE] [http-nio-8084-exec-2] INFO  [BookingServiceImpl.java:96] c.i.booking.BookingService.services.impl.BookingServiceImpl - Fetched all bookings successfully. count=49

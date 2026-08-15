@@ -1,0 +1,4 @@
+2026-08-11 12:03:43.526 [RATING-SERVICE] [http-nio-8083-exec-2] INFO  [RatingController.java:49] com.icwd.rating.RatingService.controllers.RatingController - Received request to fetch all ratings
+2026-08-11 12:03:49.262 [RATING-SERVICE] [http-nio-8083-exec-2] DEBUG [RatingController.java:56] com.icwd.rating.RatingService.controllers.RatingController - Fetched all ratings successfully. count=50
+2026-08-11 12:03:49.743 [RATING-SERVICE] [http-nio-8083-exec-1] INFO  [RatingController.java:49] com.icwd.rating.RatingService.controllers.RatingController - Received request to fetch all ratings
+2026-08-11 12:03:50.519 [RATING-SERVICE] [http-nio-8083-exec-1] DEBUG [RatingController.java:56] com.icwd.rating.RatingService.controllers.RatingController - Fetched all ratings successfully. count=50

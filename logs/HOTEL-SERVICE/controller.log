@@ -1,0 +1,75 @@
+2026-08-11 00:00:48.283 [HOTEL-SERVICE] [http-nio-8082-exec-10] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 00:00:26.869 [HOTEL-SERVICE] [http-nio-8082-exec-4] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 00:01:01.874 [HOTEL-SERVICE] [http-nio-8082-exec-10] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 00:01:01.962 [HOTEL-SERVICE] [http-nio-8082-exec-4] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 00:01:06.524 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 00:01:06.524 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 00:01:11.959 [HOTEL-SERVICE] [http-nio-8082-exec-7] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 00:01:12.582 [HOTEL-SERVICE] [http-nio-8082-exec-7] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 00:01:27.003 [HOTEL-SERVICE] [http-nio-8082-exec-8] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 00:01:27.012 [HOTEL-SERVICE] [http-nio-8082-exec-8] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 00:01:28.219 [HOTEL-SERVICE] [http-nio-8082-exec-6] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 00:01:28.228 [HOTEL-SERVICE] [http-nio-8082-exec-6] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 00:06:32.903 [HOTEL-SERVICE] [http-nio-8082-exec-3] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 00:06:33.000 [HOTEL-SERVICE] [http-nio-8082-exec-3] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 00:06:33.584 [HOTEL-SERVICE] [http-nio-8082-exec-2] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 00:06:33.757 [HOTEL-SERVICE] [http-nio-8082-exec-2] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:04.883 [HOTEL-SERVICE] [http-nio-8082-exec-1] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:06.857 [HOTEL-SERVICE] [http-nio-8082-exec-1] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:06.952 [HOTEL-SERVICE] [http-nio-8082-exec-2] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:06.952 [HOTEL-SERVICE] [http-nio-8082-exec-2] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:07.638 [HOTEL-SERVICE] [http-nio-8082-exec-3] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:07.649 [HOTEL-SERVICE] [http-nio-8082-exec-3] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:07.681 [HOTEL-SERVICE] [http-nio-8082-exec-4] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:07.681 [HOTEL-SERVICE] [http-nio-8082-exec-4] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:12.745 [HOTEL-SERVICE] [http-nio-8082-exec-5] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:12.745 [HOTEL-SERVICE] [http-nio-8082-exec-5] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:12.784 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:12.795 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:15.828 [HOTEL-SERVICE] [http-nio-8082-exec-7] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:15.846 [HOTEL-SERVICE] [http-nio-8082-exec-7] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:15.880 [HOTEL-SERVICE] [http-nio-8082-exec-8] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:16.221 [HOTEL-SERVICE] [http-nio-8082-exec-8] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:18.495 [HOTEL-SERVICE] [http-nio-8082-exec-6] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:18.495 [HOTEL-SERVICE] [http-nio-8082-exec-6] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:18.540 [HOTEL-SERVICE] [http-nio-8082-exec-10] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:18.546 [HOTEL-SERVICE] [http-nio-8082-exec-10] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:21.814 [HOTEL-SERVICE] [http-nio-8082-exec-1] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:21.814 [HOTEL-SERVICE] [http-nio-8082-exec-1] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:21.864 [HOTEL-SERVICE] [http-nio-8082-exec-2] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:21.883 [HOTEL-SERVICE] [http-nio-8082-exec-2] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:43.008 [HOTEL-SERVICE] [http-nio-8082-exec-3] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:43.024 [HOTEL-SERVICE] [http-nio-8082-exec-3] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:18:43.055 [HOTEL-SERVICE] [http-nio-8082-exec-4] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:18:43.061 [HOTEL-SERVICE] [http-nio-8082-exec-4] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 10:27:13.216 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 10:27:13.281 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 12:01:25.675 [HOTEL-SERVICE] [http-nio-8082-exec-8] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 12:01:27.785 [HOTEL-SERVICE] [http-nio-8082-exec-6] INFO  [RoomController.java:58] com.icwd.hotel.controllers.RoomController - Received request to fetch all rooms
+2026-08-11 12:01:28.470 [HOTEL-SERVICE] [http-nio-8082-exec-8] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 12:01:29.234 [HOTEL-SERVICE] [http-nio-8082-exec-10] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 12:01:29.440 [HOTEL-SERVICE] [http-nio-8082-exec-10] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 12:01:29.626 [HOTEL-SERVICE] [http-nio-8082-exec-1] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 12:01:29.641 [HOTEL-SERVICE] [http-nio-8082-exec-1] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 12:01:29.730 [HOTEL-SERVICE] [http-nio-8082-exec-2] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 12:01:29.735 [HOTEL-SERVICE] [http-nio-8082-exec-2] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 12:01:37.096 [HOTEL-SERVICE] [http-nio-8082-exec-6] DEBUG [RoomController.java:65] com.icwd.hotel.controllers.RoomController - Fetched all rooms successfully. count=51
+2026-08-11 12:01:38.732 [HOTEL-SERVICE] [http-nio-8082-exec-3] INFO  [RoomController.java:58] com.icwd.hotel.controllers.RoomController - Received request to fetch all rooms
+2026-08-11 12:01:38.813 [HOTEL-SERVICE] [http-nio-8082-exec-3] DEBUG [RoomController.java:65] com.icwd.hotel.controllers.RoomController - Fetched all rooms successfully. count=51
+2026-08-11 12:02:54.657 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 12:02:54.707 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 12:02:54.915 [HOTEL-SERVICE] [http-nio-8082-exec-7] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 12:02:54.931 [HOTEL-SERVICE] [http-nio-8082-exec-7] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 12:05:22.851 [HOTEL-SERVICE] [http-nio-8082-exec-10] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 12:05:22.858 [HOTEL-SERVICE] [http-nio-8082-exec-10] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 12:05:23.177 [HOTEL-SERVICE] [http-nio-8082-exec-1] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 12:05:23.406 [HOTEL-SERVICE] [http-nio-8082-exec-1] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 12:07:56.475 [HOTEL-SERVICE] [http-nio-8082-exec-6] INFO  [RoomController.java:58] com.icwd.hotel.controllers.RoomController - Received request to fetch all rooms
+2026-08-11 12:07:57.717 [HOTEL-SERVICE] [http-nio-8082-exec-6] DEBUG [RoomController.java:65] com.icwd.hotel.controllers.RoomController - Fetched all rooms successfully. count=51
+2026-08-11 12:08:29.667 [HOTEL-SERVICE] [http-nio-8082-exec-3] INFO  [HotelController.java:48] com.icwd.hotel.controllers.HotelController - Received request to fetch hotel. hotelId=search
+2026-08-11 12:08:47.637 [HOTEL-SERVICE] [http-nio-8082-exec-5] INFO  [RoomController.java:58] com.icwd.hotel.controllers.RoomController - Received request to fetch all rooms
+2026-08-11 12:08:48.324 [HOTEL-SERVICE] [http-nio-8082-exec-5] DEBUG [RoomController.java:65] com.icwd.hotel.controllers.RoomController - Fetched all rooms successfully. count=51
+2026-08-11 13:34:37.714 [HOTEL-SERVICE] [http-nio-8082-exec-9] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 13:34:38.017 [HOTEL-SERVICE] [http-nio-8082-exec-9] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50
+2026-08-11 13:34:39.235 [HOTEL-SERVICE] [http-nio-8082-exec-7] INFO  [HotelController.java:70] com.icwd.hotel.controllers.HotelController - Received request to fetch all hotels
+2026-08-11 13:34:39.235 [HOTEL-SERVICE] [http-nio-8082-exec-7] DEBUG [HotelController.java:77] com.icwd.hotel.controllers.HotelController - Fetched all hotels successfully. count=50

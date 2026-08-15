@@ -7,38 +7,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="EurekaServer" />
-        <module name="AiAssistantService" />
-        <module name="HotelService" />
-        <module name="UserService" />
         <module name="AuthService" />
-        <module name="InvoiceService" />
-        <module name="NotificationService" />
-        <module name="RoomService" />
-        <module name="RatingService" />
-        <module name="ApiGateway" />
-        <module name="PaymentService" />
-      </profile>
-      <profile name="Annotation profile for EmployeeService" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="false">
-          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
-          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
-        </processorPath>
-        <module name="EmployeeService" />
-      </profile>
-      <profile name="Annotation profile for BookingService" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="false">
-          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
-        </processorPath>
-        <module name="BookingService" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AiAssistantService" target="21" />
+      <module name="ApiGateway" target="21" />
+      <module name="BookingService" target="21" />
+      <module name="EmployeeService" target="21" />
+      <module name="EurekaServer" target="21" />
+      <module name="HotelService" target="21" />
+      <module name="InvoiceService" target="21" />
+      <module name="NotificationService" target="21" />
+      <module name="PaymentService" target="21" />
+      <module name="RatingService" target="21" />
+      <module name="RoomService" target="21" />
+      <module name="UserService" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
