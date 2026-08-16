@@ -49,11 +49,11 @@ An enterprise-grade, distributed hotel management ecosystem designed with a micr
 **Rooms Inventory**
 ![Rooms Dashboard](Screenshot%202026-08-16%20051015.png)
 
-**Guest Directory**
-![Guests Dashboard](Screenshot%202026-08-16%20051026.png)
-
 **Feedback & Ratings**
-![Ratings Dashboard](Screenshot%202026-08-16%20051039.png)
+![Ratings Dashboard](Screenshot%202026-08-16%20051026.png)
+
+**Guest Directory**
+![Guests Dashboard](Screenshot%202026-08-16%20051039.png)
 
 ### 4. Intelligence
 **Live Tool-Enabled AI Assistant**
