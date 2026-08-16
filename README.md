@@ -67,8 +67,8 @@ An enterprise-grade, distributed hotel management ecosystem designed with a micr
 |---|---|
 | **Frontend** | React 18, Vite, Tailwind CSS, Lucide React, Axios, React Router DOM |
 | **Backend** | Java 21, Spring Boot 3.x, Spring Cloud Gateway, Netflix Eureka, Spring Security + JWT, OpenFeign |
-| **Integrations** | Razorpay Payment Gateway, Spring AI / LLM Tool Calling |
-| **Databases** | MySQL, PostgreSQL |
+| **Integrations** | Razorpay Payment Gateway, Spring AI|
+| **Databases** | MySQL, PostgreSQL, MongoDb |
 | **Testing** | .NET 10 xUnit Suite, Playwright UI Tests, RestSharp, FluentAssertions |
 
 ---
@@ -89,7 +89,7 @@ An enterprise-grade, distributed hotel management ecosystem designed with a micr
 | **EmployeeService** | `8088` | Staff directories, shifts, department management |
 | **InvoiceService** | `8089` | Billing calculation, PDF invoice compilation |
 | **RoomService** | `8090` | In-room dining, maintenance, and service requests |
-| **AIAssistant** | `8091` | LLM-powered hotel recommendation and booking assistant |
+| **AIAssistant** | `8091` | Used ollama (Llama 3.2) hotel recommendation and booking assistant |
 
 ---
 
